@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-02",
+  "items": [
+    {
+      "title_zh": "2026 AHA/ASA 急性缺血性卒中早期管理指南发布：扩大取栓适应证、首推儿科建议",
+      "summary": "AHA/ASA 发布 2026 版急性缺血性卒中（AIS）早期管理指南，取代 2018 版及 2019 年更新，整合近八年新证据。关键更新包括扩展静脉溶栓与血管内取栓的适应证与禁忌、新增儿科卒中管理的首次专门建议、更新血糖与吞咽障碍处理及影像分诊范式。作为卒中领域最权威临床路径，将直接改变急诊卒中诊疗流程。",
+      "category": "指南更新",
+      "source": "Stroke（AHA/ASA）",
+      "url": "https://consensus.app/papers/details/8901d29a50a55bc48f61e72722b65bcc/",
+      "date": "2026-03（月级估计）",
+      "why_hot": "卒中指南七年大改、首次纳入儿科并扩大取栓人群，操作性强、易上热榜"
+    },
+    {
+      "title_zh": "血基生物标志物能否替代 PET/CSF：阿尔茨海默病诊断进入「一管血」时代",
+      "summary": "2026 年发表于 Ageing Research Reviews 的综述指出，血基 AD 生物标志物（p-tau217、Aβ42/40 比值、NfL、GFAP）诊断准确性大幅提升，p-tau217 的 AUC 高于 0.93、阳性预测值约 91%，可在症状出现前 15–20 年捕捉病理变化。结合干血斑（DBS）与超灵敏检测技术，血检有望成为可及、可扩展的早筛范式，减少对昂贵 PET 与 CSF 的依赖。",
+      "category": "神经病学",
+      "source": "Ageing Research Reviews",
+      "url": "https://consensus.app/papers/details/1806279151405ae7bec62d05ee917a97/",
+      "date": "2026-05（月级估计）",
+      "why_hot": "AD 早筛从 PET/CSF 转向采血检测，对大众与临床均具强话题性"
+    },
+    {
+      "title_zh": "血基 AD 生物标志物临床实践指南：敏感/特异达标者可替代 PET",
+      "summary": "阿尔茨海默协会（AA）组织临床与循证方法学专家发布血基生物标志物（BBM）诊断疑似 AD 的临床实践指南。核心建议：敏感性≥90% 且特异性≥75% 的 BBM 可用作分诊工具；敏感性、特异性均≥90% 者可替代淀粉样 PET 或 CSF AD 生物标志物检测。同时警示现有商业检测准确性差异大、单一阈值常不达标，须在专科记忆门诊内使用并结合临床评估。",
+      "category": "指南更新",
+      "source": "Alzheimer's & Dementia",
+      "url": "https://consensus.app/papers/details/6fdf60dab7745abbbb3bf442313c054d/",
+      "date": "2025-11（月级估计）",
+      "why_hot": "首次把「抽血」写进 AD 诊断规范，是诊断路径的里程碑式更新"
+    },
+    {
+      "title_zh": "FDA 批准 Zycubo（组织胺铜）治疗 Menkes 病：罕见神经退行病首个对因治疗",
+      "summary": "FDA 批准 Zycubo（copper histidinate，组织胺铜）用于 Menkes 病（MD）患儿，是该罕见 X 连锁铜转运病首个对因治疗。MD 由 ATP7A 突变致铜缺乏与进行性神经退行、难治性癫痫，多数患儿 3 岁前死亡；静脉铜剂较口服铜盐可改善铜生物利用度，出生后首月内启动治疗与更好生存和神经发育结局相关。",
+      "category": "药物审批",
+      "source": "FDA / Annals of Medicine and Surgery",
+      "url": "https://consensus.app/papers/details/3f871357d8ca5fd58a2ec9044aa7dc1c/",
+      "date": "2026-03（月级估计）",
+      "why_hot": "罕见神经病「首个对因治疗」获批，里程碑意义强、媒体易传播"
+    },
+    {
+      "title_zh": "多发性硬化「无药缓解」新范式：口服 cladribine 可长期脱离 DMT",
+      "summary": "2026 年发表于 Journal of Neurology 的综述指出，口服 cladribine（脉冲式选择性免疫重建疗法）在获批近十年后积累了长期真实世界数据：多数患者 4 年后仍无需追加治疗，或可达成「治疗自由缓解」这一新目标。机制涉及淋巴细胞快速再群集与记忆 B 细胞持续清除，轻度复发时再次给药有效且耐受性好，为 MS 管理带来潜在范式转变。",
+      "category": "神经病学",
+      "source": "Journal of Neurology",
+      "url": "https://consensus.app/papers/details/ea25c8a7bac95380856a8a00f8eeff9b/",
+      "date": "2026-06（月级估计）",
+      "why_hot": "「无药缓解」概念契合免疫重置热点，MS 患者群体关注度高"
+    },
+    {
+      "title_zh": "CAR-T 疗法进军多发性硬化：CD19 靶向可深且持久缓解难治性 MS",
+      "summary": "2026 年发表于 Inflammopharmacology 的综述分析 CAR-T 在多发性硬化中的前景：CD19 靶向 CAR-T 可高效、持久清除 B 细胞，使难治性/进展型 MS 患者疾病进展显著减缓、部分功能恢复、炎症标志物下降。异体 CAR-T 与基于 CRISPR 的安全开关等新技术在研，有望把免疫重建从「重置」推向可长期维持的缓解。",
+      "category": "神经病学",
+      "source": "Inflammopharmacology",
+      "url": "https://consensus.app/papers/details/b75f644dfe4355a2b8ca37f5c2ef2a36/",
+      "date": "2026-07（月级估计）",
+      "why_hot": "CAR-T 从肿瘤跨界到神经免疫，话题性与「免疫重置」叙事强"
+    },
+    {
+      "title_zh": "新型抗癫痫药管线转向「精准＋疾病修饰」：逾 40 种进入 II/III 期",
+      "summary": "2026 年发表于 Current Issues in Molecular Biology 的综述梳理抗癫痫药（ASM）研发管线：2024 年识别逾 200 种在研疗法，截至 2026 年 6 月有逾 40 种进入 II/III 期，多数针对发育性癫痫性脑病（DEE）。功能性状态选择性钠通道调节（如 relutrigine）成为领先方向，另有 azetukalner、cenobamate、soticlestat 及基因定向疗法（zorevunersen、elsunersen），研发重心转向机制导向、基因型匹配乃至疾病修饰。",
+      "category": "药物审批",
+      "source": "Current Issues in Molecular Biology",
+      "url": "https://consensus.app/papers/details/08053c79c44a5561ab5760f2b54ee37f/",
+      "date": "2026-08（月级估计）",
+      "why_hot": "抗癫痫「精准化」管线全景盘点，对难治性癫痫群体有直接意义"
+    },
+    {
+      "title_zh": "6 种新型抗癫痫药网络 Meta 分析：各癫痫亚型最优用药排序出炉",
+      "summary": "系统综述与网络 Meta 分析（20 项试验、5516 例）比较 6 种新型 ASM（brivaracetam、cenobamate、cannabidiol、fenfluramine、everolimus、soticlestat）。结果：局灶性癫痫最优为 cenobamate 300mg；Dravet 综合征最优为 fenfluramine；LGS 最优为 cannabidiol；TSC 高暴露 everolimus 最优。为临床选药提供循证排序，同时提示需更多高质量研究确证。",
+      "category": "临床研究",
+      "source": "Epilepsy & Behavior",
+      "url": "https://consensus.app/papers/details/32a643764e0752cdb307547af22fbd8d/",
+      "date": "2024-09（月级估计）",
+      "why_hot": "为 4 类常见癫痫亚型给出「最优用药」证据排序，实用性强"
+    },
+    {
+      "title_zh": "针灸对比假针预防无先兆偏头痛：真实效应更保守，证据确定性偏低",
+      "summary": "2026 年发表于 Journal of Pain Research 的系统综述与 Meta 分析纳入 8 项假针对照随机试验（659 例）。与假针相比，真针可减少每月偏头痛天数（g=0.46）与疼痛强度（g=0.49），但生活质量（MSQ）仅呈非显著趋势。按 GRADE 评估，证据确定性为低到很低，提示需更大规模、标准化假针的多中心试验确证。",
+      "category": "中西医结合",
+      "source": "Journal of Pain Research",
+      "url": "https://consensus.app/papers/details/ab917dbe89ac56baabb4006d3e21fcf5/",
+      "date": "2026-03（月级估计）",
+      "why_hot": "「假针对照」是针灸疗效争议焦点，结果偏保守、易引讨论"
+    },
+    {
+      "title_zh": "三种针灸方案比较：电针在卒中康复中运动功能恢复最优",
+      "summary": "2026 年发表于 American Journal of Physical Medicine & Rehabilitation 的系统综述与网络 Meta 分析纳入 21 项 RCT，比较体针、电针与耳穴在卒中康复中的作用。电针改善运动功能（Fugl-Meyer）获益最大（SMD=7.92），网络 Meta 分析显示其最可能为最优方案（SUCRA=96.4%）；体针次之，耳穴最弱。结果支持按康复目标选择针灸术式。",
+      "category": "中西医结合",
+      "source": "American Journal of Physical Medicine & Rehabilitation",
+      "url": "https://consensus.app/papers/details/0b7b9a3753fa57d19a3648dd4863681d/",
+      "date": "2026-04（月级估计）",
+      "why_hot": "「哪种针灸最好」直接指导临床选择，中西医结合康复话题热度高"
+    },
+    {
+      "title_zh": "中西医结合治疗带状疱疹后神经痛共识（2026）：9 项问题、22 条推荐",
+      "summary": "中国神经科、中医科、疼痛科、针灸与循证医学专家联合制定《带状疱疹后神经痛（PHN）中西医结合诊治专家共识（2026 版）》。共识围绕 9 个临床问题形成 22 条推荐（3 条诊断、19 条治疗），提出「西医精准评估＋中医整体辨证」的诊断模型，并强调中西医联合应早期启动、协同减毒，为 PHN 规范诊治提供循证依据。",
+      "category": "指南更新",
+      "source": "中华医学杂志",
+      "url": "https://consensus.app/papers/details/b0092468a9535a07b92a752c07ae57f7/",
+      "date": "2026-06（月级估计）",
+      "why_hot": "国内最新「中西医结合」专家共识落地，精准契合两大主题交汇点"
+    },
+    {
+      "title_zh": "中药复方用于代谢病：122 项 RCT 显示「祛湿」思路可作辅助治疗",
+      "summary": "2026 年发表于 Frontiers in Pharmacology 的系统综述与 Meta 分析纳入 122 项 RCT（11252 例），评估「祛湿」中药复方在 2 型糖尿病、高血压、血脂异常与肥胖中的疗效。联合生活方式干预或西药时，中药可改善空腹血糖、舒张压与 BMI；葛根芩连汤（糖尿病）、半夏白术天麻汤（高血压）及茯苓为有前景方剂，但整体证据确定性受异质性与缺乏盲法限制。",
+      "category": "中西医结合",
+      "source": "Frontiers in Pharmacology",
+      "url": "https://consensus.app/papers/details/081d4cf7474b5ae6a3c63e2a3d519631/",
+      "date": "2026-07（月级估计）",
+      "why_hot": "大样本「祛湿」中药 Meta 分析，量化了中医证候思路的临床价值"
+    },
+    {
+      "title_zh": "中西医结合抗癫痫：冰片增生物利用度、丁先汤降毒减副反应",
+      "summary": "2026 年发表于《中国中药杂志》的述评指出，中国癫痫患病率约 0.4%–0.7%（逾 900 万人），约 30% 为难治性。中西医结合抗癫痫可在癫痫持续状态、卒中后/创伤后/儿童/难治性癫痫及合并焦虑抑郁等多种类型获益，机制涉及提高 AED 生物利用度（冰片增强血脑屏障通透）、降低发作频率与复发、并减少西药毒性，未来走向个体化、病因治疗与全程管理。",
+      "category": "中西医结合",
+      "source": "中国中药杂志",
+      "url": "https://consensus.app/papers/details/60700c210a345520881fdc89a9ab0c89/",
+      "date": "2026-09（月级估计）",
+      "why_hot": "中西医联合抗癫痫的机制与「全程管理」新范式，切中西医结合主题"
+    },
+    {
+      "title_zh": "中药 RCT 方法学质量再遭拷问：136 项试验分配隐藏偏倚偏高",
+      "summary": "2026 年发表于 Pharmacological Research 的横断面研究系统审视 2018–2025 年间 136 项含中药安慰剂的 RCT。结果显示「分配隐藏」偏倚风险最高，仅 11.76% 试验完整报告安慰剂各成分名称与剂量，4.41% 报告质控与安全评估；24.26% 中药安慰剂仍含中药成分，挑战了安慰剂「药理学惰性」这一根本原则。",
+      "category": "中西医结合",
+      "source": "Pharmacological Research",
+      "url": "https://consensus.app/papers/details/944e9c6360805d998ce457d591788844/",
+      "date": "2026-05（月级估计）",
+      "why_hot": "直击「中药 RCT 靠不靠谱」的老争论，对中西医结合循证化极具讨论度"
+    }
+  ]
+}
