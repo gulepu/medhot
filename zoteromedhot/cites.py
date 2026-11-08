@@ -101,7 +101,7 @@ def resolve_wids(dois):
         except Exception as e:
             print(f"[cites] DOI 解析失败（{len(ch)} 个）: {e}", file=sys.stderr); continue
         for w in data.get("results", []):
-            d = (w.get("doi") or "").lower()
+            d = norm_doi(w.get("doi")).lower()
             if d: doi2w[d] = w["id"]
     return doi2w
 
@@ -163,8 +163,11 @@ def zotero_authors(w):
         auths.append({"lastName": parts[0], "firstName": parts[1]} if len(parts) == 2 else {"name": d})
     return auths
 
+def norm_doi(doi):
+    return re.sub(r"^https?://(dx\.)?doi\.org/", "", (doi or "").strip())
+
 def zotero_item(w, coll_name):
-    doi = (w.get("doi") or "").strip()
+    doi = norm_doi(w.get("doi"))
     venue = ((w.get("primary_location") or {}).get("source") or {}).get("display_name") or ""
     it = {
         "itemType": "journalArticle",
@@ -251,7 +254,7 @@ def main():
     cands = new_citing(wids, since)
     fresh, seen = [], set()
     for w in cands:
-        doi = (w.get("doi") or "").lower().strip()
+        doi = norm_doi(w.get("doi")).lower()
         if not doi or doi in imported or doi in ldois or doi in seen: continue
         s, why, venue, title, _ = score_candidate(w)
         if s < THRESH: continue
