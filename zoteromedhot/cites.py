@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """ZoteroMedHOT 新施用文献监测
 反查库内文献（主题收藏 + 库内热榜）近期被谁新引用（OpenAlex），
-按「临床价值 / 高分」筛选后导入 Zotero 库（有 API key 走 Web API 自动入库，否则生成 .bib 兜底），
-macOS 系统通知提示。状态存 cites_state.json（已导入 DOI 去重）。
+按「临床价值 / 高分」筛选后导入 Zotero 库（首选本机 Zotero MCP 插件 localhost:23120，
+有 API key 可退回 Web API，都不可用则生成 .bib 兜底），macOS 系统通知提示。
+状态存 cites_state.json（已导入 DOI 去重）。
 """
-import json, re, subprocess, sys, urllib.parse, urllib.request
+import json, os, re, subprocess, sys, urllib.parse, urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -14,6 +15,7 @@ HERE = Path(__file__).parent
 STATE = HERE / "cites_state.json"
 KEYF = HERE / "zotero_api_key.txt"
 BIB_DIR = HERE / "new_imports"
+MCP_URL = os.environ.get("ZOTERO_MCP_URL", "http://127.0.0.1:23120/mcp")  # Zotero MCP 插件（autoagent）
 
 ZLIB = 13522303            # zotero.org 账号（itemRelations 里的 users/13522303）
 WATCH_HOT = 100            # 热榜参与监测条数
@@ -205,6 +207,53 @@ def import_api(items):
             return n if n else -1  # -1 = 全部失败，调用方退回 .bib
     return n
 
+# ---------------- Zotero MCP 插件（localhost:23120，Streamable HTTP）----------------
+def _mcp_call(payload, sid):
+    req = urllib.request.Request(
+        MCP_URL, data=json.dumps(payload).encode(),
+        headers={"Content-Type": "application/json",
+                 "Accept": "application/json, text/event-stream",
+                 **({"Mcp-Session-Id": sid} if sid else {})})
+    with urllib.request.urlopen(req, timeout=180) as r:
+        sid = r.headers.get("Mcp-Session-Id") or sid
+        body = r.read().decode()
+        if "text/event-stream" in r.headers.get("Content-Type", ""):
+            body = next((l[5:].strip() for l in body.splitlines() if l.startswith("data:")), "")
+    return (json.loads(body) if body.strip() else {}), sid
+
+def import_mcp(targets):
+    """targets: [(doi, coll_key)]。走 Zotero MCP 插件 add_by_identifier（Zotero 自带翻译器解析元数据，
+    自动跳过库内已存在）。返回导入条数；插件不可达（Zotero 未开/服务未启）返回 -1。"""
+    by_coll, jobs = {}, []
+    for doi, ck in targets:
+        by_coll.setdefault(ck, []).append(doi)
+    sid = None
+    try:
+        resp, sid = _mcp_call({"jsonrpc": "2.0", "id": 1, "method": "initialize", "params": {
+            "protocolVersion": "2025-03-26", "capabilities": {},
+            "clientInfo": {"name": "zoteromedhot", "version": "1.0"}}}, None)
+        (resp.get("result") or {}).get("serverInfo", {})  # 无 result = 出错
+        _mcp_call({"jsonrpc": "2.0", "method": "notifications/initialized"}, sid)
+    except Exception as e:
+        print(f"[cites] MCP 插件不可达（Zotero 未开或插件服务未启）: {e}", file=sys.stderr)
+        return -1
+    n, rid = 0, 10
+    for ck, dois in by_coll.items():
+        for i in range(0, len(dois), 3):  # >3 会变后台 job，≤3 同步返回
+            ch = dois[i:i + 3]
+            args = {"identifiers": ch, "saveAttachments": True, "skipExisting": True}
+            if ck: args["collectionKey"] = ck
+            try:
+                resp, sid = _mcp_call({"jsonrpc": "2.0", "id": rid, "method": "tools/call",
+                                       "params": {"name": "add_by_identifier", "arguments": args}}, sid)
+                rid += 1
+                text = ((resp.get("result") or {}).get("content") or [{}])[0].get("text", "")
+                counts = (json.loads(text).get("data") or {}).get("counts") or {}
+                n += counts.get("imported", 0) + counts.get("skipped_existing", 0)
+            except Exception as e:
+                print(f"[cites] MCP 导入失败（{len(ch)} 条 → {ck or '库根'}）: {e}", file=sys.stderr)
+    return n if n else -1
+
 def bib_escape(s):
     return re.sub(r"[{}&]", lambda m: "\\" + m.group(0), s or "")
 
@@ -271,18 +320,19 @@ def main():
             it = zotero_item(w, coll)
             items.append(it); coll_names.append(coll)
             api_targets.append((it, ckeys.get(coll)))
-        via = "api" if KEYF.exists() else None
-        if via:
-            ok = import_api(api_targets)
-            via = "api" if ok > 0 else "bib"
-        if via == "bib" or via is None:
+        ok = import_mcp([(d, ckeys.get(c)) for _, _, _, d, c in fresh])
+        via = "mcp" if ok > 0 else None
+        if not via and KEYF.exists():
+            ok2 = import_api(api_targets)
+            via = "api" if ok2 > 0 else "bib"
+        if via in ("bib", None):
             path = import_bib(items, coll_names)
             print(f"[cites] 已生成 {path}（{len(items)} 条，拖入 Zotero 并选择目标收藏）", file=sys.stderr)
         for s, why, w, doi, coll in fresh:
             imported[doi] = {"date": datetime.now().strftime("%Y-%m-%d"), "title": w.get("title") or "",
                              "score": round(s, 1), "collection": coll or "", "via": via or "bib",
                              "why": " · ".join(why)}
-        if via == "api":
+        if via in ("api", "mcp"):
             mac_notify("ZoteroMedHOT · 新施用文献",
                        f"今日导入 {len(fresh)} 条：《{fresh[0][2].get('title','')[:40]}》等，已入库")
         else:

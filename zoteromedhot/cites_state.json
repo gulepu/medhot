@@ -6,7 +6,7 @@
       "title": "Optimizing Genetic Analyses for Movement Disorders: A Unified Panel Approach and Targeted Reanalysis of 4,046 Clinical Exomes",
       "score": 6.0,
       "collection": "",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 Movement Disorders · Meta/指南级证据 · 主题命中 2"
     },
     "10.1002/mds.70573": {
@@ -14,7 +14,7 @@
       "title": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease",
       "score": 5.5,
       "collection": "PD",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 Movement Disorders · 队列/多中心 · 主题命中 3"
     },
     "10.1021/acs.est.6c07743": {
@@ -22,7 +22,7 @@
       "title": "Multi-Omics Gut Microbiome Species Communities and Functional Modules Linking Metal Exposures to Children’s Neurodevelopmental Health in a Canadian Birth Cohort",
       "score": 4.8,
       "collection": "肌张力障碍",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 Environmental Science & Technology · 队列/多中心"
     },
     "10.1111/ejn.70721": {
@@ -30,7 +30,7 @@
       "title": "Time to Move Upstream? A Framework for Expanding the Focus of Freezing of Gait to Prodromal, Subclinical, and Pre‐FOG Stages",
       "score": 4.8,
       "collection": "",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 European Journal of Neuroscience · 队列/多中心"
     },
     "10.3389/fmolb.2026.1962671": {
@@ -38,7 +38,7 @@
       "title": "A cuproptosis-related gene signature and the protective role of CDKN1A in sepsis-induced acute respiratory distress syndrome",
       "score": 4.8,
       "collection": "",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 Frontiers in Molecular Biosciences · 队列/多中心"
     },
     "10.3389/fnagi.2026.1954812": {
@@ -46,7 +46,7 @@
       "title": "Preserved olfaction unmasks choroid plexus–related cognitive risk in Parkinson’s disease",
       "score": 4.5,
       "collection": "PD",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 Frontiers in Aging Neuroscience · 主题命中 2"
     },
     "10.3390/ijms27219916": {
@@ -54,7 +54,7 @@
       "title": "One Disorder, Two Brains: Challenges in Modeling Epilepsy and Associated Movement Disorders in Mice",
       "score": 4.5,
       "collection": "癫痫",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 International Journal of Molecular Sciences · 主题命中 2"
     },
     "10.1080/00207454.2026.2758257": {
@@ -62,7 +62,7 @@
       "title": "Salidroside alleviates MPP + -induced injury and mitochondrial fission in PC12 cells by mediating the HDAC6/MST1/MIEF1 axis",
       "score": 4.5,
       "collection": "",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 International Journal of Neuroscience · 主题命中 2"
     },
     "10.3390/brainsci16111204": {
@@ -70,7 +70,7 @@
       "title": "Multimodal Imaging and Molecular Biomarkers of Co-Pathology Across the Parkinson’s Disease–Dementia with Lewy Bodies Continuum",
       "score": 4.5,
       "collection": "PD",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 Brain Sciences · 主题命中 3"
     },
     "10.3389/fnagi.2026.2003656": {
@@ -78,7 +78,7 @@
       "title": "Disulfidptosis in neurological disorders: from disulfide stress to actin cytoskeletal collapse",
       "score": 4.5,
       "collection": "",
-      "via": "bib",
+      "via": "mcp",
       "why": "顶刊 Frontiers in Aging Neuroscience · 主题命中 2"
     }
   }
