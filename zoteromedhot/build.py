@@ -149,7 +149,8 @@ def build_feed_items(db):
     return out, len(seen)
 
 # ---------------- B. 库内热榜 ----------------
-def build_lib_items(db):
+def hot_scores(db, top=LIB_TOP, min_score=3.0):
+    """主库施用热度打分：返回 ([(score, row)] 降序, signals)，供 cites.py 监测集复用"""
     rows = fetch_rows(db, "i.libraryID=1")
     # 库内关联：itemRelations 指向 zotero 库内 key
     key2id = {r["key"]: r["itemID"] for r in rows}
@@ -213,10 +214,19 @@ def build_lib_items(db):
                  else (1.0 if added >= (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d %H:%M:%S") else 0.0)
         ref_bonus = 1.5 if r["key"] in ref_items else 0.0
         score = n_notes * 2 + n_ai * 3 + n_rel * 3 + n_theme * 1.5 + n_col * 0.5 + n_tags * 0.3 + recent + ref_bonus
-        if score < 3:  # 低于阈值的不上榜
+        if score < min_score:  # 低于阈值的不上榜
             continue
         scored.append((score, r))
     scored.sort(key=lambda x: -x[0])
+    return scored[:top], {"notes": notes, "ai_notes": ai_notes, "rel_out": rel_out,
+                          "rel_in": rel_in, "coll": coll, "theme_coll": theme_coll,
+                          "norm_date": norm_date}
+
+def build_lib_items(db):
+    scored, signals = hot_scores(db, top=LIB_TOP)
+    notes, ai_notes = signals["notes"], signals["ai_notes"]
+    rel_out, rel_in, coll, theme_coll = signals["rel_out"], signals["rel_in"], signals["coll"], signals["theme_coll"]
+    norm_date = signals["norm_date"]
 
     # 主题收藏名用于 source 与分类
     ph = ",".join("?" * len(THEME_COLLECTIONS))
@@ -228,7 +238,7 @@ def build_lib_items(db):
             (r["itemID"], *THEME_COLLECTIONS)).fetchone()
         return name["collectionName"] if name else None
     out = []
-    for score, r in scored[:LIB_TOP]:
+    for score, r in scored:
         title, abstract = r["title"] or "", r["abstract"] or ""
         pub = r["publication"] or ""
         coll_name = primary_coll(r)
