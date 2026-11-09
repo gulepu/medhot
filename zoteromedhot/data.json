@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-08",
-  "source": "本地 Zotero 文献库（~/Zotero）· 主库 6508 条 · 订阅 62 个 · 纯脚本构建",
+  "date": "2026-11-09",
+  "source": "本地 Zotero 文献库（~/Zotero）· 主库 6530 条 · 订阅 62 个 · 纯脚本构建",
   "stats": {
     "feed_items_window": 8,
-    "feed_candidates": 813,
+    "feed_candidates": 894,
     "lib_hot_items": 6,
     "total": 14
   },
@@ -13,8 +13,8 @@
       "summary": "神经元核内包涵体疾病（Neuronal intranuclear inclusion disease,NIID）是一种罕见的神经退行性疾病，临床表现多样，导致其诊断困难。根据目前的报道，其主要的神经系统症状包括认知功能障碍、帕金森病样行为、发作性脑病、脑炎样表型、周围神经病变（感觉及运动障碍）、小脑共济失调、震颤、不自主运动、癫痫和头痛、自主神经病变（尿潴留或尿失禁、双侧瞳孔缩小...",
       "category": "神经病学",
       "source": "订阅 · 卒中与神经疾病-CNKI",
-      "url": "https://kns.cnki.net/kcms2/article/abstract?v=zHHPQ4rbcT5GOmqpAFdfF9-OrgH6Wx1rdN5T4VkFNfR1EdSxV7C5zmb9Z06hsqfZVrbMnPGRNGxlvqtnW7cYWRfAlLWgBq9pYcKKDfQPTqI9IZlC9fZV9m3Hm79lX8QDIQlYaldyVat2Z4CmW0DZjejskEibxI_TJuMurqKOi5mXKyB_RlJkxQ==",
-      "date": "2026-11-07",
+      "url": "https://kns.cnki.net/kcms2/article/abstract?v=QkNI1wCrri8JDTfskEHNqE_ZpOZF0mSgly-ID5Bc5U--rQQ8ydOfKO3INkn1TgV25YcGN1lzEq81SfEYnSwf3_BubS09neALlrnEetbelQ1qDC5Um2sF_3aMcCeoKN26TVNKTZwdCMz3JPm-Aq-Qzff_Ruy7VZF0Z-XiPJw2EiIw5DdJhKwzsw==",
+      "date": "2026-11-08",
       "why_hot": "订阅「卒中与神经疾病-CNKI」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
         "feed": "卒中与神经疾病-CNKI",
@@ -23,100 +23,100 @@
       "origin": "feed"
     },
     {
-      "title_zh": "The role of neurofilament light chain and other fluid biomarkers in cerebellar ataxias",
-      "summary": "Brain Commun. 2026 Oct 6;8(5):fcag313. doi: 10.1093/braincomms/fcag313. eCollection 2026. ABSTRACT The genetic and phenotypic heterogeneity of hereditary ataxias complicates the design of clinical trials since each ataxi…",
+      "title_zh": "Routine clinical test markers with MRI anatomical anchoring for dysphagia risk identification in wilson disease: model development and external validation using a two-center database",
+      "summary": "BMC Neurol. 2026 Sep 5;26(1):708. doi: 10.1186/s12883-026-05321-6. ABSTRACT BACKGROUND: Wilson disease (WD)-related dysphagia may lead to aspiration, pulmonary infection and malnutrition, but it is often recognized late …",
       "category": "神经病学",
-      "source": "订阅 · multiple system atrophy",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840744/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bEX5bJHyhttg3HBKzCKEgGptYFv1XYRvFkedHvLYxV5U8REU-&fc=20240616050055&ff=20261107224116&v=2.20.1",
-      "date": "2026-11-07",
-      "why_hot": "订阅「multiple system atrophy」今日入库 · 主题命中 3 · 订阅权重 3.0",
+      "source": "订阅 · wilson disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995552/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1RiS31tjBXJuJFw-KpK0bbq6_AZuRJjyaeE5eiW3X5vo4ttwGR&fc=20240301230044&ff=20261108210052&v=2.20.1",
+      "date": "2026-11-08",
+      "why_hot": "订阅「wilson disease」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
-        "feed": "multiple system atrophy",
+        "feed": "wilson disease",
         "score": 6.0
       },
       "origin": "feed"
     },
     {
-      "title_zh": "Vestibular function in degenerative parkinsonism",
-      "summary": "Front Neurol. 2026 Sep 23;17:1927218. doi: 10.3389/fneur.2026.1927218. eCollection 2026. ABSTRACT INTRODUCTION: The degenerative pathology in Parkinson's disease (PD), multisystem atrophy (MSA) and progressive supranucle…",
+      "title_zh": "Stage-Specific Health Status in Multiple System Atrophy: EQ-5D Findings from a European Cohort",
+      "summary": "Mov Disord. 2026 Nov 6. doi: 10.1002/mds.70593. Online ahead of print. ABSTRACT BACKGROUND: Multiple system atrophy (MSA) is a rare neurodegenerative disorder that severely impairs health-related quality of life (HRQoL).…",
       "category": "神经病学",
-      "source": "订阅 · multiple system atrophy",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846297/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bEX5bJHyhttg3HBKzCKEgGptYFv1XYRvFkedHvLYxV5U8REU-&fc=20240616050055&ff=20261107224116&v=2.20.1",
-      "date": "2026-11-07",
-      "why_hot": "订阅「multiple system atrophy」今日入库 · 主题命中 3 · 订阅权重 3.0",
+      "source": "订阅 · parkinson's disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995451/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1XqGRY609FjbTIdwwjuM7l08X8iEDCYrtOtKI0lIy7KsTmE5kH&fc=20240302232723&ff=20261108210056&v=2.20.1",
+      "date": "2026-11-08",
+      "why_hot": "订阅「parkinson's disease」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
-        "feed": "multiple system atrophy",
+        "feed": "parkinson's disease",
         "score": 6.0
       },
       "origin": "feed"
     },
     {
-      "title_zh": "脑电微状态在认知障碍疾病中的研究进展",
-      "summary": "认知障碍疾病的早期识别与疗效评估是临床面临的重大挑战。脑电微状态以毫秒级时间分辨率捕捉大脑大尺度网络活动的时空动态, 从全局神经振荡层面, 以地形图序列的形式动态追踪神经元集群同步活动的时空演化, 在认知障碍疾病的早期诊断中可发挥独特优势。本文围绕脑电微状态在轻度认知功能障碍、阿尔茨海默病、帕金森病以及颞叶癫痫相关认知障碍中特征性变化的研究进展进行综述, 旨在推动其从科学研究向临床应用转化, 为认...",
+      "title_zh": "Clinical Outcome Assessments in Movement Disorders: A Scoping Review of Current Rating Scales and Future Needs Beyond Parkinson's Disease",
+      "summary": "Mov Disord Clin Pract. 2026 Nov 6:10.1002/mdc3.70890. doi: 10.1002/mdc3.70890. Online ahead of print. ABSTRACT BACKGROUND: Clinical outcome assessments (COA) are essential for evaluating symptom severity, treatment respo…",
       "category": "神经病学",
-      "source": "订阅 · 中华神经医学杂志-CNKI",
-      "url": "https://kns.cnki.net/kcms2/article/abstract?v=zHHPQ4rbcT5-di6I0jFKqtgsrel6GG3EghWEXw1ky9BSqJs420XSL1wNyDuHj3u4_5sP7rcvJyu9ksoYJfTd-o7epJSGCvGJKbhgSCd-WzBvvc2FBUnM1u-NyjuBz9_1a2I1AgWVhv_fT9KJcjfRKuLRVSz7Js0pYA55SfvBRlzfqWOez3LK1A==",
-      "date": "2026-11-07",
-      "why_hot": "订阅「中华神经医学杂志-CNKI」今日入库 · 主题命中 2 · 订阅权重 3.0",
+      "source": "订阅 · parkinson's disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995458/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1XqGRY609FjbTIdwwjuM7l08X8iEDCYrtOtKI0lIy7KsTmE5kH&fc=20240302232723&ff=20261108210056&v=2.20.1",
+      "date": "2026-11-08",
+      "why_hot": "订阅「parkinson's disease」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
-        "feed": "中华神经医学杂志-CNKI",
-        "score": 5.0
+        "feed": "parkinson's disease",
+        "score": 6.0
       },
       "origin": "feed"
     },
     {
-      "title_zh": "帕金森病自主神经功能障碍相关血压异常的研究进展",
-      "summary": "帕金森病(PD)是临床常见的神经系统变性疾病，以运动迟缓、静止性震颤、肌强直和姿势平衡障碍为主要表现。同时还伴随一些非运动症状，自主神经功能障碍是重要组成部分，尤以心血管调节异常最为突出，主要表现为直立性低血压、卧位高血压及餐后低血压等多种血压调控异常。血压异常可以导致头晕、晕厥、运动不耐受、认知损害等严重影响患者的生活质量。文中系统综述了PD相关血压异常的临床特征、发病机制、监测方法及干预策略，...",
-      "category": "神经病学",
-      "source": "订阅 · 中国临床神经科学-CNKI",
-      "url": "https://kns.cnki.net/kcms2/article/abstract?v=zHHPQ4rbcT7EF3ad3DtFk0t56VYfNVUmcjCB0o-P6LVZ17Q3T1nGQ09zjpfX0Ie0qrgWjKdkOZaMYUXLybnXuxE6_8zqLLLYzJCZijUIZe5q-SR9BAIsJ6Xh99-JQ7ZhvavaWV4XEZF3DxqlfmoBnKc3N8mYpnxUrekY5ghXHX6LoHd9UoXf_A==",
-      "date": "2026-11-07",
-      "why_hot": "订阅「中国临床神经科学-CNKI」今日入库 · 主题命中 2 · 订阅权重 3.0",
+      "title_zh": "SV2A PET imaging in Parkinson's disease and atypical parkinsonism: A systematic review of neuroimaging methodologies and regional findings",
+      "summary": "J Parkinsons Dis. 2026 Nov 7:1877718X261505655. doi: 10.1177/1877718X261505655. Online ahead of print. ABSTRACT BackgroundReduced presynaptic density, commonly referred to as synaptic loss, is an early and clinically rel…",
+      "category": "指南更新",
+      "source": "订阅 · parkinson's disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995735/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1XqGRY609FjbTIdwwjuM7l08X8iEDCYrtOtKI0lIy7KsTmE5kH&fc=20240302232723&ff=20261108210056&v=2.20.1",
+      "date": "2026-11-08",
+      "why_hot": "订阅「parkinson's disease」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
-        "feed": "中国临床神经科学-CNKI",
-        "score": 5.0
+        "feed": "parkinson's disease",
+        "score": 6.0
       },
       "origin": "feed"
     },
     {
-      "title_zh": "多导睡眠脑电图在癫痫共病睡眠障碍诊治中的应用",
-      "summary": "癫痫是中枢神经系统常见的慢性疾病。睡眠障碍在癫痫患者中具有极高的共患病率。癫痫与睡眠障碍之间存在复杂的共病关系,呈双向影响,严重影响患者的生活质量与疾病预后。多导睡眠脑电图(polysomnography with electroencephalography,PSG-EEG)将多导睡眠监测(polysomnography,PSG)与扩展脑电图(EEG)技术相结合,同步记录患者整夜睡眠中的脑电活动...",
+      "title_zh": "Q-DOAS: A Proximity Quenching Assay for Real-Time Detection of Early Protein Aggregation Events",
+      "summary": "bioRxiv [Preprint]. 2026 Oct 21:2026.06.16.732424. doi: 10.64898/2026.06.16.732424. ABSTRACT Protein aggregation is central to numerous neurodegenerative diseases. The paucity of facile assays to measure aggregation and …",
       "category": "神经病学",
-      "source": "订阅 · 癫痫与神经电生理学杂志-CNKI",
-      "url": "https://kns.cnki.net/kcms2/article/abstract?v=zHHPQ4rbcT4MVOhdRqd9hQpWYLNnx5uRquyfjFe9nYiPnBHOBaeC4CUOY9-rIQC69pHb1V-4smJ2rR-kg4KHkRXGpB2oDq5GZBRlgU5rsgN75CTHArfpswlgAxiSTK8rTrfe60aKhlBv8pDTwrF0pOJh2DK3cqebW-Um9x6BK636rb0EXSCeFQ==",
-      "date": "2026-11-07",
-      "why_hot": "订阅「癫痫与神经电生理学杂志-CNKI」今日入库 · 主题命中 2 · 订阅权重 3.0",
+      "source": "订阅 · parkinson's disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995823/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1XqGRY609FjbTIdwwjuM7l08X8iEDCYrtOtKI0lIy7KsTmE5kH&fc=20240302232723&ff=20261108210056&v=2.20.1",
+      "date": "2026-11-08",
+      "why_hot": "订阅「parkinson's disease」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
-        "feed": "癫痫与神经电生理学杂志-CNKI",
-        "score": 5.0
+        "feed": "parkinson's disease",
+        "score": 6.0
       },
       "origin": "feed"
     },
     {
-      "title_zh": "帕金森病丘脑底核脑深部电刺激术后参数程控与药物调整对并发症的影响研究进展",
-      "summary": "帕金森病(Parkinson's disease,PD)是较为常见的神经退行性疾病,以静止性震颤、肌强直、运动迟缓及姿势平衡障碍为典型临床表现。丘脑底核脑深部电刺激术(subthalamic nucleus deep brain stimulation,STN-DBS)作为中晚期PD患者的重要治疗手段,可显著改善运动症状并减少抗PD药物用量;然而,其术后并发症的有效防控高度依赖于刺激参数程控与药物...",
+      "title_zh": "Rapid Eye Movement Sleep Behavior Disorder as a Prodromal Manifestation of Alpha-Synucleinopathies",
+      "summary": "Cureus. 2026 Oct 7;18(10):e117597. doi: 10.7759/cureus.117597. eCollection 2026 Oct. ABSTRACT Rapid eye movement (REM) sleep behavior disorder (RBD) is a parasomnia in which patients physically act out their dreams due t…",
       "category": "神经病学",
-      "source": "订阅 · 癫痫与神经电生理学杂志-CNKI",
-      "url": "https://kns.cnki.net/kcms2/article/abstract?v=zHHPQ4rbcT6z1zb88izZNSVbKfui-9REBJkHfAIikz-9gfwfn3tkdkX2-wDuuvv_mXchTPRN86xndg4vbZxpj4B8fuz8JV3B3ViXMwvQN6lIPXhmohQcRdQjH8XayT-V_i96x7dV9h24ERt-ap9Hd8KDzpq4EeziKFvYzEb76TOXPThJY-H4iQ==",
-      "date": "2026-11-07",
-      "why_hot": "订阅「癫痫与神经电生理学杂志-CNKI」今日入库 · 主题命中 2 · 订阅权重 3.0",
+      "source": "订阅 · parkinson's disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997636/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1XqGRY609FjbTIdwwjuM7l08X8iEDCYrtOtKI0lIy7KsTmE5kH&fc=20240302232723&ff=20261108210056&v=2.20.1",
+      "date": "2026-11-08",
+      "why_hot": "订阅「parkinson's disease」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
-        "feed": "癫痫与神经电生理学杂志-CNKI",
-        "score": 5.0
+        "feed": "parkinson's disease",
+        "score": 6.0
       },
       "origin": "feed"
     },
     {
-      "title_zh": "Aicardi-Goutières综合征7型的诊疗进展",
-      "summary": "Aicardi-Goutières综合征(Aicardi-Goutières syndrome,AGS)7型是一种罕见的遗传性Ⅰ型干扰素(type interferon,IFN-I)病。由于IFIH1基因突变导致机体IFN-I过度产生,引起以神经系统损害为主的多系统受累。该病的临床表现多样,包括精神运动发育迟缓、肌张力障碍、癫痫发作及脑部影像学异常(如基底节钙化、脑萎缩等),其早期诊断具有挑战性,...",
+      "title_zh": "Astragalus membranaceus-derived exosomes deliver calycosin to orchestrate the Nrf2/SLC7A11/GPX4 axis against ferroptosis in Parkinson's disease",
+      "summary": "J Ethnopharmacol. 2026 Nov 7:122612. doi: 10.1016/j.jep.2026.122612. Online ahead of print. ABSTRACT ETHNOPHARMACOLOGICAL RELEVANCE: Astragalus membranaceus (Fisch.) Bunge (Fabaceae) is documented in Shennong's Classic o…",
       "category": "神经病学",
-      "source": "订阅 · 癫痫与神经电生理学杂志-CNKI",
-      "url": "https://kns.cnki.net/kcms2/article/abstract?v=zHHPQ4rbcT4ZVkRVIB3zf_8DeH-FU459zqsZPZpVT0-lUZFppnm0zmMVRWkLbKCvgKrW2RWvrfW6l8msJ9J-DwITWuOKI4gd7STr8W-ZMld-LsMiPUweyFlZ3lBFVHCDwoDXhnFp6rZYIHjjK0rArB__hWljHBPoGycVEM_Wj3RAImMbLf8wgA==",
-      "date": "2026-11-07",
-      "why_hot": "订阅「癫痫与神经电生理学杂志-CNKI」今日入库 · 主题命中 2 · 订阅权重 3.0",
+      "source": "订阅 · parkinson's disease",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998702/?utm_source=Firefox&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1XqGRY609FjbTIdwwjuM7l08X8iEDCYrtOtKI0lIy7KsTmE5kH&fc=20240302232723&ff=20261108210056&v=2.20.1",
+      "date": "2026-11-08",
+      "why_hot": "订阅「parkinson's disease」今日入库 · 主题命中 3 · 订阅权重 3.0",
       "heat": {
-        "feed": "癫痫与神经电生理学杂志-CNKI",
-        "score": 5.0
+        "feed": "parkinson's disease",
+        "score": 6.0
       },
       "origin": "feed"
     },
