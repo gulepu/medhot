@@ -1,131 +1,113 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-16",
   "items": [
     {
-      "title_zh": "AHA/ASA 发布《2026 成人卒中康复与恢复指南》，JAMA 刊发新闻述评",
-      "summary": "JAMA 刊发新闻述评《Updated Stroke Guideline Emphasizes Early, Holistic Intervention》，解读 AHA/ASA 新发布的《2026 Guideline for Adult Stroke Rehabilitation and Recovery》。该指南替代 2016 版，系统检索 2025 年 6-10 月以来的新证据，面向医师、康复团队与照护者，强调早期、整体化的康复干预，是卒中康复领域近 10 年来的首次大修。",
-      "category": "指南更新",
-      "source": "JAMA 336(10):1198; Stroke 57(10)",
-      "url": "https://jamanetwork.com/doi/10.1001/jama.2026.14724",
-      "date": "2026-10-13",
-      "why_hot": "卒中康复指南 2016 年以来首次大修，顶刊 JAMA 当周即发新闻述评"
-    },
-    {
-      "title_zh": "JAMA 评析：ceperagnastat 治疗阿尔茨海默病阴性 III 期试验的教训",
-      "summary": "JAMA 刊发《Ceperagnastat in Alzheimer Disease: Lessons From a Negative Clinical Trial》，复盘 AD 新药 ceperagnastat 的 III 期临床试验未能达到主要终点，并从试验设计、终点选择与人群筛选角度讨论其借鉴意义，为阿尔茨海默病药物研发提供了如何设计可证伪试验的参考。",
+      "title_zh": "急性缺血性卒中出院去向与 1 年主要不良心血管事件：美国五州数据库回顾性队列",
+      "summary": "Stroke 发表回顾性队列研究（美国 5 州 2016–2019 年住院与急诊数据库），将急性缺血性卒中（AIS）幸存者按出院去向分类，评估院后康复去向与 1 年主要不良心血管事件（MACE）风险的关系，旨在识别可干预的二级预防靶点，为卒中二级预防的资源配置与出院分流提供循证依据。",
       "category": "临床研究",
-      "source": "JAMA 336(12):1010",
-      "url": "https://jamanetwork.com/doi/10.1001/jama.2026.12323",
-      "date": "2026-09-22",
-      "why_hot": "顶刊对 AD III 期阴性结果的深度复盘，对行业试验设计与终点选择有直接参考价值"
-    },
-    {
-      "title_zh": "Cognite 试验：ALZT-OP1（吸入色甘酸钠+口服布洛芬）治疗早期阿尔茨海默病 III 期主要结果",
-      "summary": "Journal of Alzheimer's Disease 发表 Cognite III 期四臂析因试验结果（NCT02547818）：ALZT-OP1（吸入色甘酸钠 17.1 mg + 口服布洛芬 10 mg）在 619 例早期 AD 患者中随访 72 周，主要终点 CDR-SB 未达标准；APOE4 非携带者亚组中联合治疗较安慰剂呈数值获益（p=0.069），作者建议开展基因型分层的前瞻性试验，药物 72 周安全性良好。",
-      "category": "临床研究",
-      "source": "Journal of Alzheimer's Disease",
-      "url": "https://journals.sagepub.com/doi/10.1177/13872877261498247",
-      "date": "2026-10-23",
-      "why_hot": "AD 抗炎路线 III 期阴性结果，APOE4 亚组信号为基因型分层试验设计提供新方向"
-    },
-    {
-      "title_zh": "Fenebrutinib 维持复发缓解型多发性硬化患者早期且持续的疾病低活动：FENopta 延伸研究 2 年结果",
-      "summary": "Multiple Sclerosis and Related Disorders 发表 FENopta 开放标签延伸研究 2 年数据：BTK 抑制剂 fenebrutinib 在复发缓解型 MS（RRMS）患者中维持早期且持续的「疾病低活动」，为 BTK 靶向治疗在 MS 中的长期维持疗效提供了延伸期证据。",
-      "category": "神经病学",
-      "source": "Multiple Sclerosis and Related Disorders 114:107600",
-      "url": "https://doi.org/10.1016/j.msard.2026.107600",
-      "date": "2026-10",
-      "why_hot": "BTK 抑制剂是 MS 新药赛道核心，长期延伸数据支撑其作为慢病维持治疗方案"
-    },
-    {
-      "title_zh": "改进 2024 版多发性硬化诊断标准的讨论",
-      "summary": "Multiple Sclerosis and Related Disorders 发表评述《Improving the 2024 Diagnostic Criteria for Multiple Sclerosis》，围绕 2024 年修订版 MS 诊断标准的临床应用与改进方向展开讨论（含新生物标志物与诊断流程整合），对早诊早治及 MS 诊断标准化具有指导意义。",
-      "category": "指南更新",
-      "source": "Multiple Sclerosis and Related Disorders 114:107645",
-      "url": "https://doi.org/10.1016/j.msard.2026.107645",
-      "date": "2026-10",
-      "why_hot": "2024 修订版诊断标准落地后的持续热点，涉及新生物标志物入组标准"
-    },
-    {
-      "title_zh": "磁共振引导聚焦超声（MRgFUS）治疗药物难治性癫痫：前瞻性试验初步报告",
-      "summary": "Epilepsy Research 发表 4 例药物难治性癫痫（DRE）成人的 MRgFUS 毁损治疗初步结果：靶点包括丘脑前核、中央中核、后部胼胝体及下丘脑错构瘤，均未出现严重不良事件或认知下降；中央中核靶点局灶性发作频率下降 42.6%，下丘脑错构瘤痴笑发作下降 55.5%，丘脑前核二次治疗后发作下降 66.0%，文中称这是 MRgFUS 应用于多个癫痫相关靶点的首批报道。",
-      "category": "神经病学",
-      "source": "Epilepsy Research 228:107949",
-      "url": "https://doi.org/10.1016/j.eplepsyres.2026.107949",
+      "source": "Stroke（AHA/ASA 旗舰刊）",
+      "url": "https://doi.org/10.1161/strokeaha.126.055755",
       "date": "2026-11",
-      "why_hot": "MRgFUS 为 DRE 提供新「无开颅毁损」手段，多靶点首批临床数据"
+      "why_hot": "AHA 旗舰刊 Stroke 的大样本二级预防队列，直指卒中后 MACE 这一高负荷结局"
     },
     {
-      "title_zh": "经皮耳迷走神经刺激（taVNS）治疗药物难治性癫痫：随机假刺激对照交叉试验及 EEG/MRI 反应表型",
-      "summary": "Epilepsia Open 发表 taVNS 治疗 DRE 的随机、假刺激对照交叉 RCT：临床应答异质性大，探索性分析显示 EEG 与结构性 MRI 表型与「真刺激特异性」疗效相关，提示可借助生物标志物富集应答者，为非侵入性神经调控在难治性癫痫中的应用提供了方法学参考。",
+      "title_zh": "基于血液的多生物标志物面板区分阿尔茨海默病与健康对照：单中心嵌套交叉验证",
+      "summary": "Scientific Reports 报告一项单一中心嵌套交叉验证研究，构建基于血液的多生物标志物面板用于区分阿尔茨海默病（AD）与健康对照，为 AD 的无创液体活检筛查提供了模型构建与验证思路；作者指出仍需多中心外部验证以确认泛化能力。",
       "category": "神经病学",
-      "source": "Epilepsia Open",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/epi4.70354",
-      "date": "2026-10-06",
-      "why_hot": "非侵入神经调控 + 应答预测生物标志物，为 taVNS 精准使用提供依据"
+      "source": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-026-79195-6",
+      "date": "2026-11-11",
+      "why_hot": "血液多标志物联合判读是 AD 液体活检赛道热点，嵌套交叉验证是方法学关键"
     },
     {
-      "title_zh": "Blood：IL-16 驱动 BTK 抑制剂耐药新通路",
-      "summary": "Blood 报道 IL-16 介导一条 BTK 抑制剂耐药新通路，为多发性硬化等自身免疫疾病中 BTK 靶向治疗的耐药机制提供新线索，可能指导联合用药或下一代药物设计。",
-      "category": "神经病学",
-      "source": "Blood 148(5):1227-1229",
-      "url": "https://ashpubs.org/doi/10.1182/blood.2026034380",
-      "date": "2026-09-03",
-      "why_hot": "顶刊机制研究，直指 MS BTK 抑制剂（fenebrutinib 等）耐药问题"
+      "title_zh": "走向生物学驱动的多发性硬化诊断：Neurology 展望",
+      "summary": "Neurology 刊发展望《Toward a Biology-Driven Diagnosis of Multiple Sclerosis》，主张多发性硬化（MS）诊断应从依赖临床-影像标准（如 2024 修订版 McDonald 标准）转向融合生物标志物与分子分型的「生物学驱动」范式，并讨论新分型对早诊、分层治疗与临床试验入组的潜在影响。",
+      "category": "指南更新",
+      "source": "Neurology",
+      "url": "https://doi.org/10.1212/wnl.0000000000218758",
+      "date": "2026-12-08",
+      "why_hot": "顶刊 Neurology 提出 MS 诊断范式转移，呼应 2024 标准修订后的生物学分型趋势"
     },
     {
-      "title_zh": "Nature Reviews Drug Discovery：FDA 审评已获批 AAV 基因治疗的监管经验",
-      "summary": "Nature Reviews Drug Discovery 发表评论《Regulatory lessons from FDA review of approved AAV gene therapies》，系统回顾 FDA 对已获批 AAV 基因治疗（含神经退行性疾病用药）的审评经验，讨论剂量探索、长期安全性与试验设计的共性监管挑战。",
+      "title_zh": "等位基因选择性反义寡核苷酸治疗 SCN2A 相关早期起病癫痫：精准治疗前景",
+      "summary": "Molecular Therapy Nucleic Acids 就等位基因选择性反义寡核苷酸（allele-selective AON）用于 SCN2A 相关早期起病癫痫的精准治疗进行评述，针对致病等位基因的等位特异性沉默策略有望为这类遗传性癫痫综合征带来病因靶向方案，是罕见病基因治疗在癫痫领域的前沿方向。",
       "category": "药物审批",
-      "source": "Nature Reviews Drug Discovery",
-      "url": "https://www.nature.com/articles/d41573-026-00178-3",
-      "date": "2026-11-06",
-      "why_hot": "AAV 基因治疗进入密集审批期，监管复盘对神经领域新疗法开发具有指南性意义"
+      "source": "Molecular Therapy Nucleic Acids",
+      "url": "https://doi.org/10.1016/j.omtn.2026.103068",
+      "date": "2026-12",
+      "why_hot": "等位特异性 AON 是罕见遗传癫痫的病因疗法，契合 AAV/基因疗法密集审批期主题"
     },
     {
-      "title_zh": "AI 舌诊模型对卒中中医辨证的诊断准确性：系统评价、Meta 分析与叙事综合",
-      "summary": "Frontiers in Neurology 发表舌诊用于卒中中医辨证的诊断准确性系统评价与 Meta 分析：纳入中国大陆 10 项研究（3,437 例），手工舌诊 6 项行合并分析，4 项 AI 辅助舌诊模型（1,246 例）行叙事综合。因证据确定性极低且存在参考标准独立性问题，舌诊对卒中辨证的价值尚需更多高质量研究验证（PROSPERO: CRD420261288502）。",
-      "category": "中西医结合",
-      "source": "Frontiers in Neurology 17:1874937",
-      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1874937",
-      "date": "2026-10-07",
-      "why_hot": "首次用现代 DTA 框架量化「AI 舌诊」在卒中辨证中的准确性，中西医结合 + AI 热点交叉"
+      "title_zh": "吸入剂型左旋多巴在帕金森病不同年龄亚组的疗效：III 期联合数据事后分析",
+      "summary": "Parkinsonism & Related Disorders 发表对吸入剂型左旋多巴（inhaled levodopa）III 期试验联合数据的事后（post hoc）分析，按年龄亚组评估其在帕金森病运动波动（关期）中的疗效与安全性，为吸入剂型在年轻与老年患者中的个体化使用提供补充证据。",
+      "category": "临床研究",
+      "source": "Parkinsonism & Related Disorders",
+      "url": "https://doi.org/10.1016/j.parkreldis.2026.108760",
+      "date": "2026-11",
+      "why_hot": "吸入左旋多巴是 PD 运动波动的快速给药新剂型，事后亚组分析补充其适用人群"
     },
     {
-      "title_zh": "真刺激 vs 假刺激埋线针灸改善多发性硬化痉挛症状与残疾：随机对照试验方案",
-      "summary": "Healthcare 发表 RCT 方案：38 例中重度痉挛 MS 患者 1:1 随机至真埋线（可吸收 PDO 缝线植入 30 个穴位）或假埋线（同样 30 穴穿刺不埋线），患者、评估者、分析者三盲 superiority 设计；主要终点为 EDSS 变化，次要终点含 NRS-S、MSWS-12、Barthel 指数及疼痛。MS 中痉挛患病率约 80%，药物受限，埋线针灸有望提供持续刺激替代方案。",
-      "category": "中西医结合",
-      "source": "Healthcare 14(20):3467",
-      "url": "https://www.mdpi.com/2227-9067/14/20/3467",
-      "date": "2026-10-15",
-      "why_hot": "针对「埋线针灸特异性」的三盲假针对照设计，方法学上回应针灸 RCT 质询热点"
+      "title_zh": "A 型肉毒毒素治疗帕金森病疼痛性足部肌张力障碍",
+      "summary": "Neurology Clinical Practice 报道 A 型肉毒毒素（OnabotulinumtoxinA）用于帕金森病伴疼痛性足部肌张力障碍的临床应用经验，聚焦这一少见但显著影响功能与生活质量的下肢并发症，为 PD 相关肌张力障碍的局灶处理提供实践参考。",
+      "category": "神经病学",
+      "source": "Neurology Clinical Practice",
+      "url": "https://doi.org/10.1212/cpj.0000000000200659",
+      "date": "2026-12",
+      "why_hot": "PD 并发症中的疼痛性足部肌张力障碍，肉毒素局灶治疗契合肌张力障碍主题"
     },
     {
-      "title_zh": "中西医结合管理老年人多病共存专家共识（《中国科学：生命科学》）",
-      "summary": "《中国科学：生命科学》发表《中西医结合管理老年人多病共存（multimorbidity）专家共识》，提出老年多病共存患者的中西医结合管理推荐意见，为老年多病共存的中西医结合实践提供了国内权威期刊背书的操作框架。",
+      "title_zh": "传统中药与常规西药治疗肌萎缩侧索硬化（ALS）疗效比较：系统评价与 Meta 分析",
+      "summary": "Acupuncture & Electro-Therapeutics Research 发表系统评价与 Meta 分析，比较并排序肌萎缩侧索硬化（ALS）的多种疗法（利鲁唑、依达拉奉、传统中药 TCM 及多种替代疗法）的疗效与安全性，文献检索覆盖 PubMed 及维普、万方、CNKI；研究旨在识别对 ALS 患者有实际疗效的干预方案，为中西医结合管理运动神经元病（MND）提供循证排序。",
       "category": "中西医结合",
-      "source": "Scientia Sinica Vitae 56:2433-2443",
-      "url": "https://link.springer.com/article/10.1360/ssv-2025-0407",
-      "date": "2026-09-01",
-      "why_hot": "国内顶级生命科学期刊发布中西医结合共识，老年多病共存是老龄化医学核心议题"
+      "source": "Acupuncture & Electro-Therapeutics Research",
+      "url": "https://doi.org/10.1177/03601293261499859",
+      "date": "2026-10-27",
+      "why_hot": "面向 MND/ALS 的中西医结合疗法循证排序，直接对应用户运动神经元病收藏主题"
     },
     {
-      "title_zh": "标准化针灸联合加减小续命汤治疗急性缺血性卒中：随机对照试验（JoVE）",
-      "summary": "Journal of Visualized Experiments 发表单中心、评估者设盲 RCT：发病 72 h 内、NIHSS 4-15 分的急性缺血性卒中患者 1:1 随机（每组 64 例），标准化针灸 + 加减小续命汤联合标准治疗 28 天，主要终点为 28 天经校正的 NIHSS，并预设肠道菌群与炎症生物标志物；视频方法学呈现使该「针灸 + 中药」试验可重复性高。",
+      "title_zh": "六种中药注射液辅助治疗缺血性心力衰竭的比较：贝叶斯网络 Meta 分析",
+      "summary": "Frontiers in Cardiovascular Medicine 发表贝叶斯网络 Meta 分析，系统比较 6 种中药注射液（TCMI）作为常规治疗辅助用于缺血性心力衰竭（IHF）的疗效与安全性，并对不同中药注射液进行排序，为中西医结合治疗心衰的选药与循证决策提供量化参考。",
       "category": "中西医结合",
-      "source": "Journal of Visualized Experiments (JoVE)",
-      "url": "https://www.jove.com/articles/73051",
-      "date": "2026-10-06",
-      "why_hot": "「针灸 + 中药方剂」联合 RCT 且嵌入肠脑轴机制学终点，中西医结合试验方法学示范"
+      "source": "Frontiers in Cardiovascular Medicine",
+      "url": "https://doi.org/10.3389/fcvm.2026.1969858",
+      "date": "2026-10-30",
+      "why_hot": "中药注射剂在心衰中的多药网络比较，贝叶斯 NMA 提供排序与选药依据"
     },
     {
-      "title_zh": "传统中式运动改善卒中后患者睡眠质量：系统评价与 Meta 分析",
-      "summary": "Complementary Therapies in Medicine 发表 Meta 分析，定量评估太极拳、八段锦等传统中式运动对卒中后患者睡眠质量的影响，为卒中康复非药物干预提供证据合成。",
+      "title_zh": "中药辅助治疗 2 型糖尿病合并冠心病的双获益（控糖 + 护心）：多维系统评价与网络 Meta 分析",
+      "summary": "Guidelines and Standards of Chinese Medicine 发表多维系统评价与网络 Meta 分析，检索 2020 年以来 RCT（PubMed、Cochrane、Embase、CNKI、万方等），评估辅助中药治疗在 2 型糖尿病（T2DM）合并冠心病（CHD）患者中改善心血管结局与代谢控制的双重获益及安全性，为中西医结合管理「糖 + 心」共病提供证据。",
       "category": "中西医结合",
-      "source": "Complementary Therapies in Medicine 100:103401",
-      "url": "https://doi.org/10.1016/j.ctim.2026.103401",
-      "date": "2026-09",
-      "why_hot": "中式运动 + 卒中后睡眠障碍的量化证据，契合中医非药物疗法热点"
+      "source": "Guidelines and Standards of Chinese Medicine",
+      "url": "https://doi.org/10.1097/gscm.0000000000000127",
+      "date": "2026-11-03",
+      "why_hot": "「控糖 + 护心」双结局的中药辅助证据合成，契合慢病共病的中西医结合管理"
+    },
+    {
+      "title_zh": "交互式针灸治疗卒中后吞咽障碍：随机对照试验方案",
+      "summary": "JMIR Research Protocols 发表交互式针灸（interactive acupuncture）治疗卒中后吞咽障碍（poststroke dysphagia）的 RCT 方案：交互式针灸为一种动态针刺，将颈后穴位的短促针刺刺激与患者主动吞咽动作同步进行；方案聚焦这一高致残、与营养不良/吸入性肺炎/死亡率相关的并发症，为吞咽康复提供非器械依赖的神经调控新路径。",
+      "category": "中西医结合",
+      "source": "JMIR Research Protocols",
+      "url": "https://doi.org/10.2196/102785",
+      "date": "2026-10-29",
+      "why_hot": "交互式针灸 + 卒中后吞咽障碍，对应用户吞咽障碍收藏主题的神经调控新设计"
+    },
+    {
+      "title_zh": "传统中式运动改善慢性腰痛的疗效：系统评价与网络 Meta 分析",
+      "summary": "Complementary Therapies in Medicine 发表系统评价与网络 Meta 分析，比较太极拳、八段锦、五禽戏等传统中式运动（Chinese traditional exercises）对慢性腰痛（chronic low back pain）的疗效与安全性并进行排序，为中医非药物疗法在疼痛管理中的应用提供循证合成。",
+      "category": "中西医结合",
+      "source": "Complementary Therapies in Medicine",
+      "url": "https://doi.org/10.1016/j.ctim.2026.103458",
+      "date": "2026-12",
+      "why_hot": "中式运动 + 慢性腰痛的 NMA 排序，属中医非药物疗法的循证热点"
+    },
+    {
+      "title_zh": "新型假针技术对照 Park 假针的有效性验证：随机对照试验",
+      "summary": "Complementary Therapies in Medicine 发表 RCT，比较并验证一种新型假针（sham acupuncture）技术与 Park 假针方法的差异/等效性，为针灸临床试验的假对照设计提供方法学对照，回应「假针特异性」这一长期被质询的方法学痛点。",
+      "category": "中西医结合",
+      "source": "Complementary Therapies in Medicine",
+      "url": "https://doi.org/10.1016/j.ctim.2026.103435",
+      "date": "2026-11",
+      "why_hot": "假针方法学验证，直击针灸 RCT 质询热点，方法学参考价值高"
     }
   ]
 }
