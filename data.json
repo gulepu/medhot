@@ -1,122 +1,113 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "items": [
     {
-      "title_zh": "脑淀粉样血管病 MRI 诊断波士顿标准 2.0 版（Boston Criteria v2.0）",
-      "summary": "Neurology 发布脑淀粉样血管病（CAA）波士顿诊断标准的 MRI 修订版（v2.0），更新以脑叶性脑微出血、浅表皮质含铁血黄素沉积（SCHS）与皮质/皮质下浅表含铁血黄素沉积（cSS）等 MRI 特征判定 CAA 的规则，旨在提高诊断特异性与判读一致性，便于鉴别脑叶性出血性卒中与血管性认知障碍，并为抗淀粉样治疗时代的 CAA 分层提供影像标准。",
-      "category": "指南更新",
-      "source": "Neurology（AAN 旗舰刊）",
-      "url": "https://doi.org/10.1212/wnl.0000000000218815",
-      "date": "2026-11",
-      "why_hot": "CAA 诊断标准升级是 CAA 领域大事件，抗 Aβ 抗体时代影像分型直接决定治疗分层"
+      "title_zh": "七种中药注射液联合西医治疗急性缺血性卒中：系统评价与网状 Meta 分析",
+      "summary": "Frontiers in Pharmacology 今日发表系统评价与网状 Meta 分析，纳入七类常用中药注射液（联合西医常规治疗）用于急性缺血性卒中（AIS）的随机对照试验，比较不同注射方案在改善神经功能缺损与转归方面的相对疗效与安全性排序，为中西医结合卒中治疗的中药注射液遴选与剂量决策提供网络比较证据。",
+      "category": "中西医结合",
+      "source": "Frontiers in Pharmacology",
+      "url": "https://doi.org/10.3389/fphar.2026.1881071",
+      "date": "2026-11-18",
+      "why_hot": "中药注射液联合西医治疗 AIS 是临床最普遍的中西医结合场景，网状 Meta 一次性给出方案间相对排序"
     },
     {
-      "title_zh": "APOE 超越阿尔茨海默病：APOE 基因型在神经科疾病中的广泛作用",
-      "summary": "Neurology 刊文系统梳理 APOE 基因型（ε2/ε3/ε4）在阿尔茨海默病以外的神经科学证据，涵盖神经退行性疾病、脑血管病与神经发育/免疫相关疾病中的风险效应与药物反应差异，讨论以 APOE 状态进行患者分层与精准用药的前景，为遗传状态指导的神经病防治提供框架。",
+      "title_zh": "NEJM 综述：急性缺血性卒中静脉溶栓的新方向",
+      "summary": "New England Journal of Medicine 发表综述，讨论急性缺血性卒中静脉溶栓（IVT）治疗的新方向：包括时间窗拓展、溶栓药物选择（如替奈普兹的演进地位）、溶栓后管理与患者分层等，梳理静脉溶栓这一标准疗法在取栓时代如何继续演进，为临床路径更新提供框架性参考。",
       "category": "神经病学",
-      "source": "Neurology",
-      "url": "https://doi.org/10.1212/wnl.0000000000218660",
-      "date": "2026-11-10",
-      "why_hot": "顶刊把 APOE 叙事从 AD 扩展到整个神经科，APOE 分层用药正成为精准神经病学热点"
+      "source": "New England Journal of Medicine",
+      "url": "https://doi.org/10.1056/nejmra2519017",
+      "date": "2026-11-05",
+      "why_hot": "NEJM 直接为『溶栓』这一基础疗法定调新方向，顶刊综述即风向标"
     },
     {
-      "title_zh": "全国皮下抗淀粉样阿尔茨海默病疗法可达性地理分析",
-      "summary": "JAMA Neurology 发表全国性横断面分析，评估美国各地理区域对皮下剂型抗淀粉样（anti-amyloid）阿尔茨海默病抗体疗法的基础设施可达性（给药中心、影像随访与监测条件），发现区域间可达性差异是制约该疗法扩大应用的主要瓶颈，为产能建设与保险/报销政策提供数据支撑。",
-      "category": "药物审批",
-      "source": "JAMA Neurology",
-      "url": "https://doi.org/10.1001/jamaneurol.2026.4253",
-      "date": "2026-11-16",
-      "why_hot": "皮下抗 Aβ 抗体重塑 AD 治疗格局，『可达性』是审批后落地的关键一环"
-    },
-    {
-      "title_zh": "预防性替罗非班用于未溶栓/取栓急性缺血性卒中的早期神经功能恶化",
-      "summary": "Journal of Stroke and Cerebrovascular Diseases 报道对未接受静脉溶栓或血管内取栓的急性缺血性卒中（AIS）患者预防性使用替罗非班（GP IIb/IIIa 受体拮抗剂），观察其对早期神经功能恶化（END）的影响，探索溶栓/取栓时代之外的另一类高危人群的抗栓策略，为 END 的早期干预提供参考。",
+      "title_zh": "ASSET-IT 研究：入院卒中严重程度与静脉溶栓后早期替罗非班疗效的关系",
+      "summary": "Journal of the American Heart Association 发表 ASSET-IT 试验的预分析结果：在因急性非心源性缺血性卒中接受静脉溶栓的患者中，评估早期加用替罗非班（GP IIb/IIIa 受体拮抗剂）输注的安全性与疗效，并检验入院卒中严重程度是否预测其获益与出血风险，为溶栓后强化抗栓策略的患者分层提供依据。",
       "category": "临床研究",
-      "source": "Journal of Stroke and Cerebrovascular Diseases",
-      "url": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2026.108782",
-      "date": "2026-11",
-      "why_hot": "END 是卒中后功能结局的关键可干预节点，预防性抗栓策略贴近真实临床场景"
+      "source": "Journal of the American Heart Association",
+      "url": "https://doi.org/10.1161/jaha.126.049693",
+      "date": "2026-11-12",
+      "why_hot": "溶栓后替罗非班是卒中抗栓热点，按严重程度分层决定『谁能获益』直接指导临床选择"
     },
     {
-      "title_zh": "卒中发病率下降、疾病负担上升：老龄化韩国卒中流行病学新格局",
-      "summary": "Korean Circulation Journal 报告韩国卒中流行病学研究：在人口老龄化与生存率提升背景下，卒中发病率趋于下降但总疾病负担（患病人数与失寿年）持续上升，呈现『低发病率-高负担』的新格局，提示卒中防治资源应从发病管理转向幸存者长期管理。",
+      "title_zh": "PEARL 研究亚组分析：血管内取栓成功后加用动脉内阿替普酶",
+      "summary": "Journal of the American Heart Association 发表 PEARL 随机临床试验的预设亚组分析：针对未先行静脉溶栓、接受血管内取栓并成功再通的大血管闭塞卒中患者，评估加用动脉内阿替普酶（IAA）的疗效与安全性，探索『成功再通后』再强化溶栓的增量价值与出血风险边界。",
       "category": "临床研究",
-      "source": "Korean Circulation Journal",
-      "url": "https://doi.org/10.4070/kcj.2026.0370",
-      "date": "2026-11",
-      "why_hot": "『发病率降、负担升』的流行病学反转是老龄化社会卒中资源分配的警示样本"
+      "source": "Journal of the American Heart Association",
+      "url": "https://doi.org/10.1161/jaha.126.049961",
+      "date": "2026-11-03",
+      "why_hot": "动脉内溶栓与取栓联合方案的争议焦点，顶刊 JAMA Heart Association 亚组数据为讨论提供新证据"
     },
     {
-      "title_zh": "同一标志物、不同数值：为什么多发性硬化需要『感知检测平台』的 NfL 解读",
-      "summary": "Multiple Sclerosis and Related Disorders 刊文指出血清神经丝轻链（NfL）作为多发性硬化（MS）疾病活动与疗效监测标志物时，不同检测平台/方法学给出的数值差异显著，跨平台直接比较可能误导临床判断，主张建立平台特异性的参考区间与『assay-aware』解读框架，为 NfL 标准化监测提供方法学依据。",
-      "category": "神经病学",
-      "source": "Multiple Sclerosis and Related Disorders",
-      "url": "https://doi.org/10.1016/j.msard.2026.108016",
-      "date": "2026-11",
-      "why_hot": "NfL 是 MS 监测热点，跨平台标准化正是临床落地的现实痛点"
-    },
-    {
-      "title_zh": "新生儿癫痫的持久影响：癫痫与发育轨迹",
-      "summary": "Epilepsy Currents 报道新生儿癫痫（neonatal seizures）的远期转归研究，关注新生儿惊厥经历与后续癫痫发生风险及神经发育轨迹的关系，讨论早期识别与发育随访/干预策略，为新生儿惊厥人群的长期管理提供证据。",
-      "category": "神经病学",
-      "source": "Epilepsy Currents",
-      "url": "https://doi.org/10.1177/15357597261456382",
-      "date": "2026-11-14",
-      "why_hot": "新生儿惊厥是儿童癫痫与发育不良的起点，远期随访证据受小儿神经病学高度关注"
-    },
-    {
-      "title_zh": "超越再通：动脉内溶栓会是卒中的下一个前沿吗？",
-      "summary": "AHA 官方博客（Blogging Stroke）讨论动脉内溶栓（intra-arterial thrombolysis）在急性卒中中的地位：在血管内治疗时代，局部动脉内溶栓能否成为超越单纯血管再通的『下一前沿』——例如用于不适合取栓的大血管闭塞、延长治疗窗口或辅助溶栓场景，梳理现有证据与在研试验方向。",
+      "title_zh": "静脉溶栓后输注生理盐水：二期随机对照试验",
+      "summary": "BMC Medicine 发表二期 RCT，评估急性缺血性卒中静脉溶栓后常规输注生理盐水对功能结局的影响，检验这一『看似平常』的溶栓后液体管理策略是否真正有益，为溶栓后补液方案的去伪存真提供试验证据。",
       "category": "临床研究",
-      "source": "Blogging Stroke（AHA/ASA 官方平台）",
-      "url": "https://doi.org/10.1161/blog.20261113.886941",
+      "source": "BMC Medicine",
+      "url": "https://doi.org/10.1186/s12916-026-05412-8",
       "date": "2026-11-13",
-      "why_hot": "AHA 官方平台抛出动脉内溶栓议题，与取栓窗口延长趋势共振"
+      "why_hot": "质疑临床惯性做法的 RCT 自带话题性，溶栓后液体管理细节可能影响结局"
     },
     {
-      "title_zh": "假针技术并非惰性：系统综述",
-      "summary": "Integrative Medicine Research 发表综述《Sham acupuncture techniques are not inert》，系统梳理各类假针（sham acupuncture）技术（Park 假针、非穿透式、非穴位点等）可能携带的生物学与心理活性信号，提示假对照并非『零效应』对照，会影响针灸试验效应量的估计与解释，对针灸 RCT 的设计与解读具有方法学指导意义。",
+      "title_zh": "新型假针技术与 Park 假针对照的验证性随机对照试验",
+      "summary": "Complementary Therapies in Medicine 发表验证性 RCT，将一种新型假针（sham acupuncture）技术与经典 Park 假针方案进行头对头比较，评估其是否同样具备『非特异性』特性，为针灸试验假对照的标准化设计提供方法学证据——在『假针并非惰性』的共识下，假针验证本身正成为独立研究课题。",
       "category": "中西医结合",
-      "source": "Integrative Medicine Research",
-      "url": "https://doi.org/10.1016/j.imr.2026.101352",
+      "source": "Complementary Therapies in Medicine",
+      "url": "https://doi.org/10.1016/j.ctim.2026.103435",
       "date": "2026-11",
-      "why_hot": "『假对照特异性』是针灸试验长期被质询的方法学痛点，本综述提供系统框架"
+      "why_hot": "假对照特异性是针灸 RCT 被质询的核心方法学痛点，假针头对头验证稀缺"
     },
     {
-      "title_zh": "针灸治疗炎症性肠病的随机假对照试验方案",
-      "summary": "Brain, Behavior, & Immunity - Integrative 发表针灸治疗炎症性肠病（IBD）的随机假对照 RCT 方案，采用假对照设计评估针灸对 IBD 的疗效及其免疫-炎症机制，方案预注册了主要与次要终点，为免疫机制导向的针灸高质量 RCT 提供模板。",
-      "category": "中西医结合",
-      "source": "Brain, Behavior, & Immunity - Integrative",
-      "url": "https://doi.org/10.1016/j.bbii.2026.100197",
-      "date": "2026-11",
-      "why_hot": "IBD 属免疫介导的全身性疾病，假对照针灸 RCT 是中西医结合领域稀缺的高规格设计"
-    },
-    {
-      "title_zh": "中药复方治疗阿尔茨海默病：证据、机制与转化标准",
-      "summary": "Journal of Alzheimer's Disease 发表综述，从转化医学视角评估中药复方用于阿尔茨海默病（AD）的临床证据（RCT 与 Meta 分析）、潜在机制（β-淀粉样蛋白/tau 通路、神经炎症、肠道-脑轴等）及临床转化应满足的标准；作者指出多数复方显示一定的认知改善效应但证据质量参差，复方标准化、化学成分明确化与临床终点规范化是走向现代疗法的关键。",
-      "category": "中西医结合",
-      "source": "Journal of Alzheimer's Disease",
-      "url": "https://doi.org/10.1177/13872877261505070",
-      "date": "2026-11-10",
-      "why_hot": "在 AD 抗淀粉样疗法浪潮中给出中药复方的『转化标准』，中西医结合与 AD 两大热点交汇"
-    },
-    {
-      "title_zh": "超声引导醒脑开窍针刺作为卒中康复辅助治疗：12 个月非随机队列研究",
-      "summary": "Acupuncture & Electro-Therapeutics Research 报告一项 12 个月非随机队列研究，评估超声引导下醒脑开窍针刺作为卒中康复辅助治疗的长期功能预后；醒脑开窍为中医神经调控代表手法，本研究为针刺神经康复提供远期随访数据。",
+      "title_zh": "针灸治疗慢性非特异性腰背痛：随机对照试验系统评价与 Meta 分析",
+      "summary": "Acupuncture & Electro-Therapeutics Research 发表系统评价与 Meta 分析，检索 2000 年至 2025 年 4 月的随机对照试验，综合评估针灸治疗慢性非特异性腰背痛（CNLBP）的镇痛疗效与安全性，为这一针灸最常见适应证提供更新后的定量证据。",
       "category": "中西医结合",
       "source": "Acupuncture & Electro-Therapeutics Research",
-      "url": "https://doi.org/10.1177/03601293261505056",
-      "date": "2026-11-10",
-      "why_hot": "醒脑开窍是中医脑病针刺的代表性方案，12 个月长期随访在该领域尚属稀缺"
+      "url": "https://doi.org/10.1177/03601293261502089",
+      "date": "2026-10-29",
+      "why_hot": "腰背痛是针灸研究体量最大的领域之一，新 Meta 分析直接影响适应证定位"
     },
     {
-      "title_zh": "不同疗程针灸治疗慢性失眠的比较疗效：随机对照试验",
-      "summary": "Journal of Affective Disorders 发表 RCT，比较不同疗程/剂量方案的针灸对慢性失眠障碍的比较疗效，探索针灸『剂量-效应』关系，为针灸治疗的个体化疗程设计提供依据，结果对睡眠医学领域针灸治疗的方案标准化有参考意义。",
+      "title_zh": "头皮针联合经皮耳迷走神经刺激（taVNS）治疗卒中后认知障碍：同步 vs 序贯给药的 RCT 方案",
+      "summary": "Frontiers in Neurology 发表单中心 RCT 方案：针对卒中后认知障碍（PSCI），比较头皮针与 taVNS 联合干预的同步给药与序贯给药方案，采用多模态评估并探索中枢-外周神经调控反应，检验两类神经调控手段的时序协同效应。",
       "category": "中西医结合",
-      "source": "Journal of Affective Disorders",
-      "url": "https://doi.org/10.1016/j.jad.2026.122469",
-      "date": "2026-11",
-      "why_hot": "失眠是针灸最常见适应证，『疗程比较』设计直指剂量优化的临床需求"
+      "source": "Frontiers in Neurology",
+      "url": "https://doi.org/10.3389/fneur.2026.1931213",
+      "date": "2026-10-20",
+      "why_hot": "针灸 + taVNS 双神经调控组合是中西医结合脑病康复前沿，『同步 vs 序贯』设计直接决定联合方案落地"
+    },
+    {
+      "title_zh": "中药联合治疗 2 型糖尿病合并冠心病的血糖与心血管双重获益：多维系统评价与网状 Meta 分析",
+      "summary": "Guidelines and Standards of Chinese Medicine 发表多维系统评价与网状 Meta 分析，纳入 2020 年以来 RCT，评估中药辅助治疗 2 型糖尿病（T2DM）合并冠心病（CHD）在血糖控制与心血管保护两方面的疗效与安全性，为中西医结合共管代谢-心血管复合病变提供排序证据。",
+      "category": "中西医结合",
+      "source": "Guidelines and Standards of Chinese Medicine",
+      "url": "https://doi.org/10.1097/gscm.0000000000000127",
+      "date": "2026-11-03",
+      "why_hot": "T2DM+CHD 共病是中药『双通道获益』叙事的高价值靶点，网络比较给出方案排序"
+    },
+    {
+      "title_zh": "Pilates 运动与 TENS 穴位电针治疗原发性痛经：随机对照试验",
+      "summary": "Pain Management 发表 RCT，比较 Pilates 运动训练与 TENS 电针（经皮穴位电刺激，TENS acupuncture）在原发性痛经患者中的镇痛有效性，探索两种非药物干预在痛经管理中的相对优劣，为女性疼痛的非药物综合方案提供比较证据。",
+      "category": "中西医结合",
+      "source": "Pain Management",
+      "url": "https://doi.org/10.1080/17581869.2026.2764284",
+      "date": "2026-11-13",
+      "why_hot": "TENS 电针属电针/经皮电刺激家族，与运动疗法头对头比较是疼痛非药物管理的实用议题"
+    },
+    {
+      "title_zh": "早发癫痫精准治疗：SCN2A 相关癫痫的等位基因选择性反义寡核苷酸（ASO）",
+      "summary": "Molecular Therapy - Nucleic Acids 报道针对 SCN2A 基因功能获得性突变相关早发癫痫的等位基因选择性反义寡核苷酸（allele-selective ASO）策略：通过碱基编辑/突变选择性沉默异常等位基因而保留野生型等位，实现基因型精准调控，为遗传性癫痫的基因治疗开辟『突变级』而非『基因级』的精度。",
+      "category": "神经病学",
+      "source": "Molecular Therapy - Nucleic Acids",
+      "url": "https://doi.org/10.1016/j.omtn.2026.103068",
+      "date": "2026-12",
+      "why_hot": "SCN2A 癫痫是遗传性癫痫精准治疗的明星靶点，等位基因选择性 ASO 代表基因疗法精度升级"
+    },
+    {
+      "title_zh": "类器官平台用于癫痫靶向治疗研究",
+      "summary": "Archives of Epilepsy 综述聚焦脑类器官（organoid）模型在癫痫靶向治疗中的应用进展：利用患者来源的 3D 脑类器官在基因型驱动的癫痫（如 SCN2A、KCNQ2 等）药物筛选、机制解析与耐药预测中的价值，评估类器官平台加速癫痫个体化治疗转化的成熟度与局限。",
+      "category": "神经病学",
+      "source": "Archives of Epilepsy",
+      "url": "https://doi.org/10.4274/archepilepsy.2026.26305",
+      "date": "2026-11-16",
+      "why_hot": "类器官是神经疾病研究热点平台，癫痫靶向药筛选是其最先落地的应用场景之一"
     }
   ]
 }
