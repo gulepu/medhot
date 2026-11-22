@@ -1,104 +1,113 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-22",
   "items": [
     {
-      "title_zh": "2026 AHA 急性缺血性卒中指南对急诊救治的更新解读",
-      "summary": "International Journal of Emergency Medicine 发表对 2026 年美国心脏协会（AHA）急性缺血性卒中指南的急诊视角解读，梳理新指南在急诊科诊疗路径上的变化，包括卒中识别与影像评估、静脉溶栓与血管内取栓决策等关键环节的更新，为急诊团队落地新指南提供操作指引。",
+      "title_zh": "JAMA 队列研究：阿尔茨海默病血液生物标志物检测在美国临床实践中的开展情况",
+      "summary": "JAMA 发表队列研究，考察美国临床实践中阿尔茨海默病（AD）血液生物标志物检测的开展率，分析检测患者的特征、送检医师的专科构成，以及后续的诊断与治疗事件。该研究为 AD 液体活检从研究走向常规临床的采用现状提供了首份系统刻画，对判断血检筛查的落地速度与适应人群具有直接参考价值。",
+      "category": "神经病学",
+      "source": "JAMA",
+      "url": "https://doi.org/10.1001/jama.2026.23534",
+      "date": "2026-11-18",
+      "why_hot": "顶刊 JAMA 首份 AD 血检临床采用率队列，量化液体活检的落地速度"
+    },
+    {
+      "title_zh": "JAMA Neurology：橙剂暴露与帕金森病——战争结束了，暴露没有",
+      "summary": "JAMA Neurology 刊文《Agent Orange and Parkinson Disease—The War Ended, the Exposure Did Not》，聚焦美国「橙剂」（越战除草剂）暴露人群与帕金森病（PD）的关联，探讨这一迟发性环境/职业暴露对 PD 发生的影响，为病因学研究与退伍军人 PD 高危人群的识别提供线索。",
+      "category": "神经病学",
+      "source": "JAMA Neurology",
+      "url": "https://doi.org/10.1001/jamaneurol.2026.4218",
+      "date": "2026-11-16",
+      "why_hot": "顶刊聚焦环境暴露（橙剂）与 PD 的迟发关联，病因学新视角"
+    },
+    {
+      "title_zh": "JAMA：烟酰胺核糖（NR）用于早期帕金森病患者",
+      "summary": "JAMA 刊发关于烟酰胺核糖（nicotinamide riboside，NR，NAD+ 前体）用于早期帕金森病（PD）患者的研究，评估这一代谢通路靶向/营养补充策略在早期 PD 中的潜在作用；NR 作为 NAD+ 补充剂在神经退行性疾病中的应用是近年研究热点。",
+      "category": "临床研究",
+      "source": "JAMA",
+      "url": "https://doi.org/10.1001/jama.2026.18859",
+      "date": "2026-11-17",
+      "why_hot": "顶刊 JAMA 关注 NAD+ 前体烟酰胺核糖用于早期 PD，代谢通路干预新方向"
+    },
+    {
+      "title_zh": "CAR T 细胞疗法治疗多发性硬化：靶点、临床证据与方向的批判性评估",
+      "summary": "Multiple Sclerosis and Related Disorders 发表评述，批判性评估 CAR T 细胞疗法在多发性硬化（MS）中的应用，系统梳理其生物学靶点（如 CD19 B 细胞清除）的作用机制、现有临床证据与未来方向；CAR T 作为「免疫重置」策略是 MS 新药赛道最受关注的方向之一。",
+      "category": "药物审批",
+      "source": "Multiple Sclerosis and Related Disorders",
+      "url": "https://doi.org/10.1016/j.msard.2026.108050",
+      "date": "2026-12",
+      "why_hot": "CAR T「免疫重置」是 MS 前沿赛道，批判性评估给出靶点与证据框架"
+    },
+    {
+      "title_zh": "2026 AHA 急性缺血性卒中指南在急诊诊疗中的变化要点",
+      "summary": "International Journal of Emergency Medicine 解读 2026 年美国心脏协会（AHA）急性缺血性卒中（AIS）指南在急诊场景下的变化要点，梳理对急诊识别、再灌注决策与流程管理的具体更新，为一线急诊医师快速对齐新指南提供实操参考。",
       "category": "指南更新",
       "source": "International Journal of Emergency Medicine",
       "url": "https://doi.org/10.1186/s12245-026-01424-6",
       "date": "2026-11-19",
-      "why_hot": "AHA 卒中指南更新直接改写急诊溶栓/取栓决策，急诊科是落地的第一道关口"
+      "why_hot": "2026 AHA 卒中新指南的急诊落地解读，覆盖再灌注与流程更新"
     },
     {
-      "title_zh": "Brain：欧洲神经肌肉疾病参考网（ERN EURO-NMD）重症肌无力新型生物制剂管理专家意见",
-      "summary": "Brain 发表欧洲神经肌肉疾病参考网（ERN EURO-NMD）关于重症肌无力（MG）新型生物制剂的专家意见，聚焦补体抑制剂与新生儿 Fc 受体（FcRn）阻断剂这两类在随机试验与真实世界中均显示显著疗效、重塑 MG 治疗格局的新药，讨论其适应证选择、用药时机与安全性管理，为临床规范使用新型 MG 生物制剂提供共识框架。",
-      "category": "指南更新",
-      "source": "Brain",
-      "url": "https://doi.org/10.1093/brain/awag407",
-      "date": "2026-11-19",
-      "why_hot": "补体/FcRn 抑制剂是 MG 近年治疗跃迁，顶刊专家共识直接指导新药落地"
-    },
-    {
-      "title_zh": "MS 远程康复 vs 机构监督运动：多中心 III 期非劣效试验主结果",
-      "summary": "Multiple Sclerosis Journal 发表多中心 III 期非劣效比较有效性试验（Supervised versus Telerehabilitation Exercise Program for Multiple Sclerosis）的主结果：入组存在行走功能障碍（EDSS 4.0–6.5）的 MS 患者，比较机构内监督训练与居家远程康复两种运动干预，以 25 英尺计时行走等行走结局为主要终点，检验远程康复是否非劣于机构监督方案。",
+      "title_zh": "卒中后日常活动功能恢复的可调节康复过程因素：疼痛与康复的作用",
+      "summary": "Frontiers in Stroke 发表回顾性队列研究（2024-07 至 2025-12 某三级医院 400 例住院康复卒中患者），分析影响卒中后日常活动（ADL）功能恢复的可调节康复过程因素，并考察疼痛与康复要素的作用，为个体化卒中康复与可干预靶点识别提供循证依据。",
       "category": "临床研究",
-      "source": "Multiple Sclerosis Journal",
-      "url": "https://doi.org/10.1177/13524585261497193",
-      "date": "2026-11-19",
-      "why_hot": "『远程 vs 机构』康复采用非劣效硬设计，直接关乎 MS 患者居家康复的可行性"
+      "source": "Frontiers in Stroke",
+      "url": "https://doi.org/10.3389/fstro.2026.1972169",
+      "date": "2026-11-18",
+      "why_hot": "卒中康复可干预靶点队列，量化疼痛与康复过程因素的作用"
     },
     {
-      "title_zh": "VR/AR 视觉反馈调制机器人步态训练的急性运动学效应：慢性偏瘫卒中的随机交叉试验",
-      "summary": "NeuroRehabilitation 发表随机交叉试验，在慢性偏瘫卒中患者中比较机器人辅助步态训练（RAGT）单独使用、叠加 VR 视觉反馈、叠加屏幕 AR 反馈以及 VR+AR 序贯联合四种模式，评估其对偏瘫侧肌肉激活、肢体负重与推进相关运动学参数的急性调制作用，解析两类视觉反馈的神经力学效应差异。",
-      "category": "临床研究",
-      "source": "NeuroRehabilitation",
-      "url": "https://doi.org/10.1177/10538135261501054",
-      "date": "2026-11-19",
-      "why_hot": "VR/AR 与机器人步态训练的组合效应是卒中康复热点，交叉设计可做个体内对照"
-    },
-    {
-      "title_zh": "中医药非药物干预促进结直肠癌术后胃肠功能恢复：网状 Meta 分析",
-      "summary": "World Journal of Clinical Oncology 发表网状 Meta 分析，比较多种以中医药为基础的非药物干预（穴位刺激、艾灸、耳穴贴压等）在结直肠癌（CRC）术后胃肠功能恢复中的相对疗效与安全性排序，为加速术后胃肠功能恢复的中西医结合方案遴选提供网络比较证据。",
+      "title_zh": "七种中药注射液联合西医治疗急性缺血性卒中的疗效与安全性：系统评价与网络 Meta 分析",
+      "summary": "Frontiers in Pharmacology 发表网络 Meta 分析，系统比较 7 种中药注射液联合常规西医治疗急性缺血性卒中（AIS）的疗效与安全性，并对不同注射方案进行排序，为中西医结合治疗急性卒中的中药注射剂选药提供循证参考。",
       "category": "中西医结合",
-      "source": "World Journal of Clinical Oncology",
-      "url": "https://doi.org/10.5306/wjco.127627",
-      "date": "2026-11",
-      "why_hot": "术后胃肠功能是中西医结合的高频场景，网状 Meta 一次性给出干预排序"
+      "source": "Frontiers in Pharmacology",
+      "url": "https://doi.org/10.3389/fphar.2026.1881071",
+      "date": "2026-11-18",
+      "why_hot": "中药注射剂治疗急性卒中的多药 NMA 排序，提供选药循证依据"
     },
     {
-      "title_zh": "传统中式运动疗法治疗慢性腰背痛：系统评价与网状 Meta 分析",
-      "summary": "Complementary Therapies in Medicine 发表系统评价与网状 Meta 分析，综合评估传统中式运动疗法（太极拳、八段锦、气功等）对慢性非特异性腰背痛（CNLBP）的镇痛与功能改善疗效，并以网络比较排序不同运动项目的相对优劣，为这一常见适应证的运动处方提供循证依据。",
+      "title_zh": "不同中药干预治疗子宫腺肌症的疗效：网络 Meta 分析",
+      "summary": "Acupuncture & Electro-Therapeutics Research 发表网络 Meta 分析，检索 8 个数据库至 2025-07-31 的随机对照试验，比较不同中药干预治疗子宫腺肌症（adenomyosis）的疗效差异，结局涵盖 VAS 疼痛评分、痛经评分、子宫体积及血清 CA125 等，为中西医结合管理妇科腺肌症提供循证排序。",
+      "category": "中西医结合",
+      "source": "Acupuncture & Electro-Therapeutics Research",
+      "url": "https://doi.org/10.1177/03601293261502833",
+      "date": "2026-11-17",
+      "why_hot": "中药干预子宫腺肌症的多方案 NMA，中西医结合妇科循证"
+    },
+    {
+      "title_zh": "针灸对照假非穴位针刺治疗肠易激综合征（IBS）：系统评价与 Meta 分析",
+      "summary": "Gastroenterology（顶刊）发表系统评价与 Meta 分析，比较真穴位针刺与假非穴位针刺（sham non-acupoint）治疗肠易激综合征（IBS）的疗效，聚焦「穴位特异性」这一针灸疗效争议的核心，为该领域的假对照设计与机制判断提供高质量证据合成。",
+      "category": "中西医结合",
+      "source": "Gastroenterology",
+      "url": "https://doi.org/10.1053/j.gastro.2026.06.017",
+      "date": "2026-12",
+      "why_hot": "顶刊 Gastroenterology 用「穴位 vs 非穴位假针」直击针灸特异性争议"
+    },
+    {
+      "title_zh": "青光眼针灸干预中假针刺随机对照试验的报告质量评估",
+      "summary": "Complementary Therapies in Medicine 发表评估研究，考察以假针刺（sham acupuncture）为对照、用于青光眼针灸干预的随机对照试验的报告质量，为提升该领域 RCT 的方法学严谨性与可重复性提供参考。",
       "category": "中西医结合",
       "source": "Complementary Therapies in Medicine",
-      "url": "https://doi.org/10.1016/j.ctim.2026.103458",
+      "url": "https://doi.org/10.1016/j.ctim.2026.103452",
       "date": "2026-12",
-      "why_hot": "中式运动疗法是腰背痛非药物管理热点，网状比较给运动处方以排序（月级估计）"
+      "why_hot": "假针方法学 + 报告质量评估，回应针灸 RCT 严谨性质询"
     },
     {
-      "title_zh": "针灸对重度抑郁障碍神经内分泌生物标志物的影响：系统评价与 Meta 分析",
-      "summary": "European Journal of Integrative Medicine 发表系统评价与 Meta 分析，考察针灸干预对重度抑郁障碍（MDD）患者神经内分泌生物标志物的影响，为『针灸—神经内分泌—情绪』轴线的机制关联提供定量证据，补充针灸抗抑郁作用的中枢-内分泌机制视角。",
+      "title_zh": "传统中式运动作为冠脉介入术后心脏康复补充策略的比较效果：系统评价与网络 Meta 分析",
+      "summary": "Frontiers in Cardiovascular Medicine 发表系统评价与网络 Meta 分析，比较传统中式运动（TCE，如太极拳、八段锦等中低强度有氧运动）作为经皮冠脉介入（PCI）术后心脏康复补充策略的效果，关注支架内再狭窄、术后心绞痛复发及术后焦虑抑郁等问题，为中医非药物疗法在心脏康复中的应用提供循证合成。",
       "category": "中西医结合",
-      "source": "European Journal of Integrative Medicine",
-      "url": "https://doi.org/10.1016/j.eujim.2026.102791",
-      "date": "2026-12",
-      "why_hot": "把针灸抗抑郁疗效落到神经内分泌指标层面，对『针灸治抑郁』争议有分量（月级估计）"
+      "source": "Frontiers in Cardiovascular Medicine",
+      "url": "https://doi.org/10.3389/fcvm.2026.1963283",
+      "date": "2026-11-13",
+      "why_hot": "中式运动 + PCI 术后心脏康复的 NMA，中医非药物疗法循证"
     },
     {
-      "title_zh": "针灸治疗突发性感音神经性听力损失：系统评价、Meta 分析与网状 Meta 分析",
-      "summary": "Complementary Therapies in Medicine 发表系统评价、Meta 分析与网状 Meta 分析，综合评估针灸（含不同取穴与针法方案）对突发性感音神经性听力损失（SSNHL）患者的听力恢复疗效，并对不同针灸方案的相对有效性进行网络排序，为 SSNHL 的中西医结合治疗提供更新后的定量证据。",
+      "title_zh": "经皮耳迷走神经刺激（taVNS）减轻腹腔镜袖状胃切除术后疼痛：随机双盲假刺激对照试验",
+      "summary": "Frontiers in Medicine 发表一项前瞻性、随机、双盲、假刺激对照试验（100 例拟行腹腔镜袖状胃切除 LSG 患者），评估主动经皮耳迷走神经刺激（taVNS）对术后疼痛的非药物镇痛效果；taVNS 作为无创神经调控手段在减重/术后镇痛中的应用提供了 RCT 级证据。",
       "category": "中西医结合",
-      "source": "Complementary Therapies in Medicine",
-      "url": "https://doi.org/10.1016/j.ctim.2026.103461",
-      "date": "2026-12",
-      "why_hot": "SSNHL 是针灸耳科适应证的高频场景，网状比较可指导取穴与针法选择（月级估计）"
-    },
-    {
-      "title_zh": "罕见非典型帕金森综合征：临床谱系、诊断挑战与靶向治疗方向",
-      "summary": "Innovative Diagnostics and Targeted Therapeutics for Rare Neurological Disorders 专著章节系统梳理罕见非典型帕金森综合征——包括 tau 病变（进行性核上性麻痹 PSP、皮质基底节退化 CBD）与 α-突触核蛋白病（多系统萎缩 MSA）：早期轴向症状、快速进展、对左旋多巴反应差及突出的非运动症状，并讨论诊断挑战与新兴靶向治疗方向。",
-      "category": "神经病学",
-      "source": "Innovative Diagnostics and Targeted Therapeutics for Rare Neurological Disorders",
-      "url": "https://doi.org/10.4018/979-8-2600-5171-9.ch002",
-      "date": "2026-11-27",
-      "why_hot": "非典型帕金森综合征是帕金森鉴别诊断与罕见病管理的核心，章节级综述提供全景"
-    },
-    {
-      "title_zh": "Lancet Neurology：重新思考阿尔茨海默病临床试验的受试者入组",
-      "summary": "The Lancet Neurology 发表关于阿尔茨海默病（AD）临床试验入组问题的文章，反思当前 AD 试验在受试者招募上的瓶颈——包括认知下降早期的识别、生物标志物筛选、患者依从性与多中心协调等，讨论如何优化入组策略以加速疾病修正疗法的证据积累。",
-      "category": "神经病学",
-      "source": "The Lancet Neurology",
-      "url": "https://doi.org/10.1016/s1474-4422(26)00406-0",
-      "date": "2026-12",
-      "why_hot": "AD 疾病修正疗法竞争白热化，入组效率成为试验成败的关键瓶颈（月级估计）"
-    },
-    {
-      "title_zh": "晚发缓进行肌张力障碍-肌无力表型扩展 TOR1AIP1 相关疾病临床谱",
-      "summary": "Neuromuscular Disorders 报道一例晚发、缓进行性肌张力障碍合并肌无力表型，将其归入 TOR1AIP1 基因相关疾病谱系，提示该基因相关表型可表现为迟发缓进型，扩展了 TOR1AIP1 相关罕见神经肌肉疾病的临床认知，对基因诊断与家系筛查具有提示意义。",
-      "category": "神经病学",
-      "source": "Neuromuscular Disorders",
-      "url": "https://doi.org/10.1016/j.nmd.2026.107455",
-      "date": "2026-12",
-      "why_hot": "单基因罕见神经肌肉病表型再扩展，直接关系基因诊断与家系筛查（月级估计）"
+      "source": "Frontiers in Medicine",
+      "url": "https://doi.org/10.3389/fmed.2026.1983045",
+      "date": "2026-11-18",
+      "why_hot": "无创神经调控（taVNS）术后镇痛的 RCT 级证据"
     }
   ]
 }
