@@ -1,113 +1,95 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-25",
   "items": [
     {
-      "title_zh": "JAMA 队列研究：阿尔茨海默病血液生物标志物检测在美国临床实践中的开展情况",
-      "summary": "JAMA 发表队列研究，考察美国临床实践中阿尔茨海默病（AD）血液生物标志物检测的开展率，分析检测患者的特征、送检医师的专科构成，以及后续的诊断与治疗事件。该研究为 AD 液体活检从研究走向常规临床的采用现状提供了首份系统刻画，对判断血检筛查的落地速度与适应人群具有直接参考价值。",
+      "title_zh": "RT-QuIC 检测下颌下腺活检中错误折叠 α-突触核蛋白：帕金森病敏感检测",
+      "summary": "Neurology 发表研究，评估实时循环扩增（RT-QuIC）在下颌下腺活检组织中对错误折叠 α-突触核蛋白（misfolded α-synuclein）的敏感检测，用于帕金森病（PD）诊断。下颌下腺含丰富交感神经纤维，是 PD 路易病理早期受累部位之一；RT-QuIC 已在大脑与直肠活检中验证，该研究探索更小、更易获取的外周活检组织。意义：若成立，PD 可在活体阶段以微创活检确诊，推动「活体诊断」落地。",
       "category": "神经病学",
-      "source": "JAMA",
-      "url": "https://doi.org/10.1001/jama.2026.23534",
-      "date": "2026-11-18",
-      "why_hot": "顶刊 JAMA 首份 AD 血检临床采用率队列，量化液体活检的落地速度"
+      "source": "Neurology",
+      "url": "https://doi.org/10.1212/wnl.0000000000218749",
+      "date": "2026-12",
+      "why_hot": "顶刊 Neurology 报道 RT-QuIC 向更小外周活检组织延伸，PD 活体诊断新进展。"
     },
     {
-      "title_zh": "JAMA Neurology：橙剂暴露与帕金森病——战争结束了，暴露没有",
-      "summary": "JAMA Neurology 刊文《Agent Orange and Parkinson Disease—The War Ended, the Exposure Did Not》，聚焦美国「橙剂」（越战除草剂）暴露人群与帕金森病（PD）的关联，探讨这一迟发性环境/职业暴露对 PD 发生的影响，为病因学研究与退伍军人 PD 高危人群的识别提供线索。",
+      "title_zh": "单侧 MRI 引导激光间质热疗（LITT）丘脑切除术治疗难治性多发性硬化震颤：4 例 12 个月结局",
+      "summary": "Multiple Sclerosis and Related Disorders 报告单侧 MRI 引导 LITT 丘脑热凝切对难治性多发性硬化（MS）相关震颤的 4 例患者 12 个月随访结局。LITT 是微创立体消融技术，已用于震颤与癫痫；MS 性震颤药物反应常差，既往开颅丘脑切除创伤大。该研究提供 LITT 用于 MS 震颤的中期安全性与疗效数据，为这类难治症状提供新的微创干预选项。",
       "category": "神经病学",
-      "source": "JAMA Neurology",
-      "url": "https://doi.org/10.1001/jamaneurol.2026.4218",
-      "date": "2026-11-16",
-      "why_hot": "顶刊聚焦环境暴露（橙剂）与 PD 的迟发关联，病因学新视角"
-    },
-    {
-      "title_zh": "JAMA：烟酰胺核糖（NR）用于早期帕金森病患者",
-      "summary": "JAMA 刊发关于烟酰胺核糖（nicotinamide riboside，NR，NAD+ 前体）用于早期帕金森病（PD）患者的研究，评估这一代谢通路靶向/营养补充策略在早期 PD 中的潜在作用；NR 作为 NAD+ 补充剂在神经退行性疾病中的应用是近年研究热点。",
-      "category": "临床研究",
-      "source": "JAMA",
-      "url": "https://doi.org/10.1001/jama.2026.18859",
-      "date": "2026-11-17",
-      "why_hot": "顶刊 JAMA 关注 NAD+ 前体烟酰胺核糖用于早期 PD，代谢通路干预新方向"
-    },
-    {
-      "title_zh": "CAR T 细胞疗法治疗多发性硬化：靶点、临床证据与方向的批判性评估",
-      "summary": "Multiple Sclerosis and Related Disorders 发表评述，批判性评估 CAR T 细胞疗法在多发性硬化（MS）中的应用，系统梳理其生物学靶点（如 CD19 B 细胞清除）的作用机制、现有临床证据与未来方向；CAR T 作为「免疫重置」策略是 MS 新药赛道最受关注的方向之一。",
-      "category": "药物审批",
       "source": "Multiple Sclerosis and Related Disorders",
-      "url": "https://doi.org/10.1016/j.msard.2026.108050",
+      "url": "https://doi.org/10.1016/j.msard.2026.107966",
       "date": "2026-12",
-      "why_hot": "CAR T「免疫重置」是 MS 前沿赛道，批判性评估给出靶点与证据框架"
+      "why_hot": "LITT 微创消融应用于难治性 MS 震颤的 12 个月真实随访，MS 对症治疗热点。"
     },
     {
-      "title_zh": "2026 AHA 急性缺血性卒中指南在急诊诊疗中的变化要点",
-      "summary": "International Journal of Emergency Medicine 解读 2026 年美国心脏协会（AHA）急性缺血性卒中（AIS）指南在急诊场景下的变化要点，梳理对急诊识别、再灌注决策与流程管理的具体更新，为一线急诊医师快速对齐新指南提供实操参考。",
-      "category": "指南更新",
-      "source": "International Journal of Emergency Medicine",
-      "url": "https://doi.org/10.1186/s12245-026-01424-6",
-      "date": "2026-11-19",
-      "why_hot": "2026 AHA 卒中新指南的急诊落地解读，覆盖再灌注与流程更新"
-    },
-    {
-      "title_zh": "卒中后日常活动功能恢复的可调节康复过程因素：疼痛与康复的作用",
-      "summary": "Frontiers in Stroke 发表回顾性队列研究（2024-07 至 2025-12 某三级医院 400 例住院康复卒中患者），分析影响卒中后日常活动（ADL）功能恢复的可调节康复过程因素，并考察疼痛与康复要素的作用，为个体化卒中康复与可干预靶点识别提供循证依据。",
-      "category": "临床研究",
-      "source": "Frontiers in Stroke",
-      "url": "https://doi.org/10.3389/fstro.2026.1972169",
-      "date": "2026-11-18",
-      "why_hot": "卒中康复可干预靶点队列，量化疼痛与康复过程因素的作用"
-    },
-    {
-      "title_zh": "七种中药注射液联合西医治疗急性缺血性卒中的疗效与安全性：系统评价与网络 Meta 分析",
-      "summary": "Frontiers in Pharmacology 发表网络 Meta 分析，系统比较 7 种中药注射液联合常规西医治疗急性缺血性卒中（AIS）的疗效与安全性，并对不同注射方案进行排序，为中西医结合治疗急性卒中的中药注射剂选药提供循证参考。",
-      "category": "中西医结合",
-      "source": "Frontiers in Pharmacology",
-      "url": "https://doi.org/10.3389/fphar.2026.1881071",
-      "date": "2026-11-18",
-      "why_hot": "中药注射剂治疗急性卒中的多药 NMA 排序，提供选药循证依据"
-    },
-    {
-      "title_zh": "不同中药干预治疗子宫腺肌症的疗效：网络 Meta 分析",
-      "summary": "Acupuncture & Electro-Therapeutics Research 发表网络 Meta 分析，检索 8 个数据库至 2025-07-31 的随机对照试验，比较不同中药干预治疗子宫腺肌症（adenomyosis）的疗效差异，结局涵盖 VAS 疼痛评分、痛经评分、子宫体积及血清 CA125 等，为中西医结合管理妇科腺肌症提供循证排序。",
-      "category": "中西医结合",
-      "source": "Acupuncture & Electro-Therapeutics Research",
-      "url": "https://doi.org/10.1177/03601293261502833",
-      "date": "2026-11-17",
-      "why_hot": "中药干预子宫腺肌症的多方案 NMA，中西医结合妇科循证"
-    },
-    {
-      "title_zh": "针灸对照假非穴位针刺治疗肠易激综合征（IBS）：系统评价与 Meta 分析",
-      "summary": "Gastroenterology（顶刊）发表系统评价与 Meta 分析，比较真穴位针刺与假非穴位针刺（sham non-acupoint）治疗肠易激综合征（IBS）的疗效，聚焦「穴位特异性」这一针灸疗效争议的核心，为该领域的假对照设计与机制判断提供高质量证据合成。",
-      "category": "中西医结合",
-      "source": "Gastroenterology",
-      "url": "https://doi.org/10.1053/j.gastro.2026.06.017",
+      "title_zh": "血流限制训练（BFR）对多发性硬化患者下肢肌力的影响：系统评价与 Meta 分析",
+      "summary": "Multiple Sclerosis and Related Disorders 发表系统评价与 Meta 分析，评估血流限制训练（Blood Flow Restriction Therapy）对多发性硬化（MS）患者下肢肌力的改善作用。BFR 通过低负荷抗阻结合血流限制诱导肌肉肥大与力量增长，适合运动耐力受限的 MS 患者。该分析汇总现有随机对照证据，为 MS 运动康复处方提供循证依据。",
+      "category": "神经病学",
+      "source": "Multiple Sclerosis and Related Disorders",
+      "url": "https://doi.org/10.1016/j.msard.2026.107985",
       "date": "2026-12",
-      "why_hot": "顶刊 Gastroenterology 用「穴位 vs 非穴位假针」直击针灸特异性争议"
+      "why_hot": "BFR 是新兴物理治疗手段，MS 运动康复的新循证证据。"
     },
     {
-      "title_zh": "青光眼针灸干预中假针刺随机对照试验的报告质量评估",
-      "summary": "Complementary Therapies in Medicine 发表评估研究，考察以假针刺（sham acupuncture）为对照、用于青光眼针灸干预的随机对照试验的报告质量，为提升该领域 RCT 的方法学严谨性与可重复性提供参考。",
-      "category": "中西医结合",
-      "source": "Complementary Therapies in Medicine",
-      "url": "https://doi.org/10.1016/j.ctim.2026.103452",
+      "title_zh": "中国家族性 Cabezas 综合征合并癫痫的 CUL4B 新错义突变：病例报告",
+      "summary": "Seizure（European Journal of Epilepsy）报告一例中国家族性 Cabezas 综合征（以癫痫、发育迟缓为特征的遗传性脑病）患者携带 CUL4B 基因新发错义突变。Cabezas 综合征属罕见癫痫性脑病，CUL4B 为新鉴定致病基因。该家系报告扩展了 CUL4B 致病突变谱，为遗传性癫痫的基因诊断与家系咨询提供新线索。",
+      "category": "神经病学",
+      "source": "Seizure: European Journal of Epilepsy",
+      "url": "https://doi.org/10.1016/j.seizure.2026.09.017",
       "date": "2026-12",
-      "why_hot": "假针方法学 + 报告质量评估，回应针灸 RCT 严谨性质询"
+      "why_hot": "罕见癫痫综合征新基因、中国家系，遗传性癫痫诊断前沿。"
     },
     {
-      "title_zh": "传统中式运动作为冠脉介入术后心脏康复补充策略的比较效果：系统评价与网络 Meta 分析",
-      "summary": "Frontiers in Cardiovascular Medicine 发表系统评价与网络 Meta 分析，比较传统中式运动（TCE，如太极拳、八段锦等中低强度有氧运动）作为经皮冠脉介入（PCI）术后心脏康复补充策略的效果，关注支架内再狭窄、术后心绞痛复发及术后焦虑抑郁等问题，为中医非药物疗法在心脏康复中的应用提供循证合成。",
-      "category": "中西医结合",
-      "source": "Frontiers in Cardiovascular Medicine",
-      "url": "https://doi.org/10.3389/fcvm.2026.1963283",
-      "date": "2026-11-13",
-      "why_hot": "中式运动 + PCI 术后心脏康复的 NMA，中医非药物疗法循证"
+      "title_zh": "分期 vs 同期双侧丘脑底核 DBS 电极植入后达到稳定程控的时间比较（帕金森病）",
+      "summary": "World Neurosurgery 发表研究，比较帕金森病（PD）患者分期植入与同期双侧植入丘脑底核脑深部电刺激（STN-DBS）电极后，达到稳定程控参数的时间差异。程控期长短直接影响术后康复周期与临床资源占用，分期手术虽降低单次风险但可能延长整体程控。该比较为手术方式选择提供循证参考。",
+      "category": "神经病学",
+      "source": "World Neurosurgery",
+      "url": "https://doi.org/10.1016/j.wneu.2026.125411",
+      "date": "2026-12",
+      "why_hot": "STN-DBS 手术路径（分期 vs 同期）对程控效率的影响，PD 手术实践热点。"
     },
     {
-      "title_zh": "经皮耳迷走神经刺激（taVNS）减轻腹腔镜袖状胃切除术后疼痛：随机双盲假刺激对照试验",
-      "summary": "Frontiers in Medicine 发表一项前瞻性、随机、双盲、假刺激对照试验（100 例拟行腹腔镜袖状胃切除 LSG 患者），评估主动经皮耳迷走神经刺激（taVNS）对术后疼痛的非药物镇痛效果；taVNS 作为无创神经调控手段在减重/术后镇痛中的应用提供了 RCT 级证据。",
+      "title_zh": "针灸治疗卒中后认知障碍：连接微生物群-肠-脑轴与脑网络重塑的机制假说",
+      "summary": "Frontiers in Aging Neuroscience 发表机制综述/假说文章，提出针灸改善卒中后认知障碍（post-stroke cognitive impairment）可能通过微生物群-肠-脑轴（microbiota-gut-brain axis）中介，进而影响脑网络重塑的通路。文章整合现有针灸调节肠道菌群、炎症与神经可塑性的证据，为针灸抗认知障碍研究提供机制框架与可检验假说。",
       "category": "中西医结合",
-      "source": "Frontiers in Medicine",
-      "url": "https://doi.org/10.3389/fmed.2026.1983045",
-      "date": "2026-11-18",
-      "why_hot": "无创神经调控（taVNS）术后镇痛的 RCT 级证据"
+      "source": "Frontiers in Aging Neuroscience",
+      "url": "https://doi.org/10.3389/fnagi.2026.2000083",
+      "date": "2026-11-23",
+      "why_hot": "肠-脑轴为针灸疗效提供现代机制解释框架，中西医结合机制研究热点。"
+    },
+    {
+      "title_zh": "针灸治疗炎症性肠病（IBD）：随机假针对照试验方案",
+      "summary": "Brain, Behavior, Immunity - Integrative 发表一项针刺治疗炎症性肠病（IBD）的随机假针对照试验（RCT）方案，采用假针（sham-controlled）对照设计以分离特异性针感效应。IBD 与肠道免疫-神经调节密切相关，针灸调节肠免疫的 RCT 方案注册为领域内高质量证据的前奏，方案细节（终点、样本量、对照设计）值得跟踪。",
+      "category": "中西医结合",
+      "source": "Brain, Behavior, Immunity - Integrative",
+      "url": "https://doi.org/10.1016/j.bbii.2026.100197",
+      "date": "2026-12",
+      "why_hot": "高质量假针对照 RCT 方案，针灸治疗 IBD 的循证前哨。"
+    },
+    {
+      "title_zh": "针灸试验中假针对照设计的非穴位定义方法学",
+      "summary": "Integrative Medicine Research 发表方法学评论，讨论针灸随机对照试验中「非穴位（non-acupoint）」假针对照设计的定义标准与实施要点。假针对照的选择直接影响针灸试验的对照强度与结果解释，该文章为试验设计与报告规范提供方法学指引，有助于提升针灸 RCT 的证据等级。",
+      "category": "中西医结合",
+      "source": "Integrative Medicine Research",
+      "url": "https://doi.org/10.1016/j.imr.2026.101345",
+      "date": "2026-12",
+      "why_hot": "针灸 RCT 假针对照设计的方法学规范，领域证据质量核心议题。"
+    },
+    {
+      "title_zh": "草药干预管理哮喘：随机对照试验的系统评价与 Meta 分析",
+      "summary": "Journal of Herbal Medicine 发表系统评价与 Meta 分析，汇总草药（herbal）干预在哮喘管理中的随机对照试验证据。分析评估不同草药配方对哮喘症状控制、急性发作风险与肺功能指标的效果与安全性，为草药辅助治疗哮喘提供循证参考，并指出既有试验质量与异质性方面的局限。",
+      "category": "中西医结合",
+      "source": "Journal of Herbal Medicine",
+      "url": "https://doi.org/10.1016/j.hermed.2026.101137",
+      "date": "2026-12",
+      "why_hot": "草药干预哮喘的 RCT 证据汇总，中药现代循证评估方向。"
+    },
+    {
+      "title_zh": "耳穴针刺治疗红斑毛细血管扩张型玫瑰痤疮：多中心随机双盲假对照试验方案（预印本）",
+      "summary": "openRxiv 预印本（2026-11-24）发表一项多中心、随机、受试者与评估者双盲、假对照的耳穴针刺（auricular acupuncture）治疗红斑毛细血管扩张型玫瑰痤疮（erythematotelangiectatic rosacea）试验方案。双盲+假对照+多中心的严格设计在耳穴领域属高标准，方案注册后结果值得跟踪，对玫瑰痤疮的非药物疗法循证化有示范意义。",
+      "category": "中西医结合",
+      "source": "openRxiv（预印本）",
+      "url": "https://doi.org/10.64898/2026.11.24.26368482",
+      "date": "2026-11-24",
+      "why_hot": "高标准双盲多中心耳穴 RCT 方案，皮肤科中西医结合新方向。"
     }
   ]
 }
