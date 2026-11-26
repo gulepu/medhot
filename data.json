@@ -1,95 +1,113 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "items": [
     {
-      "title_zh": "RT-QuIC 检测下颌下腺活检中错误折叠 α-突触核蛋白：帕金森病敏感检测",
-      "summary": "Neurology 发表研究，评估实时循环扩增（RT-QuIC）在下颌下腺活检组织中对错误折叠 α-突触核蛋白（misfolded α-synuclein）的敏感检测，用于帕金森病（PD）诊断。下颌下腺含丰富交感神经纤维，是 PD 路易病理早期受累部位之一；RT-QuIC 已在大脑与直肠活检中验证，该研究探索更小、更易获取的外周活检组织。意义：若成立，PD 可在活体阶段以微创活检确诊，推动「活体诊断」落地。",
+      "title_zh": "Neurology：从研究队列到临床实践 — AD 血液生物标志物的落地之路",
+      "summary": "Neurology 刊文《From Research Cohorts to Clinical Practice》，讨论阿尔茨海默病血液生物标志物从临床研究队列转化为常规临床检验的机遇与挑战。JAMA 此前已发表 AD 血检临床采用率队列研究（11-18），本文进一步聚焦转化路径，包括检测标准化、医保覆盖和临床决策整合等议题。",
       "category": "神经病学",
       "source": "Neurology",
-      "url": "https://doi.org/10.1212/wnl.0000000000218749",
-      "date": "2026-12",
-      "why_hot": "顶刊 Neurology 报道 RT-QuIC 向更小外周活检组织延伸，PD 活体诊断新进展。"
+      "url": "https://doi.org/10.1212/wnl.0000000000218748",
+      "date": "2026-12-08",
+      "why_hot": "Neurology 聚焦 AD 血检从队列到临床的转化路径，与 JAMA 临床采用率研究形成互补"
     },
     {
-      "title_zh": "单侧 MRI 引导激光间质热疗（LITT）丘脑切除术治疗难治性多发性硬化震颤：4 例 12 个月结局",
-      "summary": "Multiple Sclerosis and Related Disorders 报告单侧 MRI 引导 LITT 丘脑热凝切对难治性多发性硬化（MS）相关震颤的 4 例患者 12 个月随访结局。LITT 是微创立体消融技术，已用于震颤与癫痫；MS 性震颤药物反应常差，既往开颅丘脑切除创伤大。该研究提供 LITT 用于 MS 震颤的中期安全性与疗效数据，为这类难治症状提供新的微创干预选项。",
-      "category": "神经病学",
-      "source": "Multiple Sclerosis and Related Disorders",
-      "url": "https://doi.org/10.1016/j.msard.2026.107966",
+      "title_zh": "Neurology Clinical Practice：多奈单抗在早期症状性阿尔茨海默病中的临床意义",
+      "summary": "Neurology Clinical Practice 发表述评《Clinical Meaningfulness of Donanemab in Early Symptomatic Alzheimer Disease》，从临床而非统计学角度评估多奈单抗（donanemab）在早期症状性 AD 治疗中的临床意义，讨论 Aβ 清除与认知衰退延迟之间的临床相关性。",
+      "category": "药物审批",
+      "source": "Neurology Clinical Practice",
+      "url": "https://doi.org/10.1212/cpj.0000000000200663",
       "date": "2026-12",
-      "why_hot": "LITT 微创消融应用于难治性 MS 震颤的 12 个月真实随访，MS 对症治疗热点。"
+      "why_hot": "从临床意义而非统计学评估多奈单抗疗效，对 AD 新药审批后临床使用有直接参考价值"
     },
     {
-      "title_zh": "血流限制训练（BFR）对多发性硬化患者下肢肌力的影响：系统评价与 Meta 分析",
-      "summary": "Multiple Sclerosis and Related Disorders 发表系统评价与 Meta 分析，评估血流限制训练（Blood Flow Restriction Therapy）对多发性硬化（MS）患者下肢肌力的改善作用。BFR 通过低负荷抗阻结合血流限制诱导肌肉肥大与力量增长，适合运动耐力受限的 MS 患者。该分析汇总现有随机对照证据，为 MS 运动康复处方提供循证依据。",
-      "category": "神经病学",
-      "source": "Multiple Sclerosis and Related Disorders",
-      "url": "https://doi.org/10.1016/j.msard.2026.107985",
+      "title_zh": "Lancet Neurology：ADORE 试验结果与依达拉奉争议",
+      "summary": "Lancet Neurology 刊发评论《The ADORE trial results and the ongoing edaravone debate》，讨论依达拉奉（edaravone）在神经退行性疾病治疗中的临床试验结果及学界持续争议，为 ALS、急性缺血性卒中及早期 PD 中依达拉奉的适应症与循证定位提供最新分析。",
+      "category": "药物审批",
+      "source": "The Lancet Neurology",
+      "url": "https://doi.org/10.1016/s1474-4422(26)00399-6",
       "date": "2026-12",
-      "why_hot": "BFR 是新兴物理治疗手段，MS 运动康复的新循证证据。"
+      "why_hot": "Lancet Neurology 评论依达拉奉持续争议，覆盖多适应症的疗效争议"
     },
     {
-      "title_zh": "中国家族性 Cabezas 综合征合并癫痫的 CUL4B 新错义突变：病例报告",
-      "summary": "Seizure（European Journal of Epilepsy）报告一例中国家族性 Cabezas 综合征（以癫痫、发育迟缓为特征的遗传性脑病）患者携带 CUL4B 基因新发错义突变。Cabezas 综合征属罕见癫痫性脑病，CUL4B 为新鉴定致病基因。该家系报告扩展了 CUL4B 致病突变谱，为遗传性癫痫的基因诊断与家系咨询提供新线索。",
-      "category": "神经病学",
-      "source": "Seizure: European Journal of Epilepsy",
-      "url": "https://doi.org/10.1016/j.seizure.2026.09.017",
-      "date": "2026-12",
-      "why_hot": "罕见癫痫综合征新基因、中国家系，遗传性癫痫诊断前沿。"
-    },
-    {
-      "title_zh": "分期 vs 同期双侧丘脑底核 DBS 电极植入后达到稳定程控的时间比较（帕金森病）",
-      "summary": "World Neurosurgery 发表研究，比较帕金森病（PD）患者分期植入与同期双侧植入丘脑底核脑深部电刺激（STN-DBS）电极后，达到稳定程控参数的时间差异。程控期长短直接影响术后康复周期与临床资源占用，分期手术虽降低单次风险但可能延长整体程控。该比较为手术方式选择提供循证参考。",
-      "category": "神经病学",
-      "source": "World Neurosurgery",
-      "url": "https://doi.org/10.1016/j.wneu.2026.125411",
-      "date": "2026-12",
-      "why_hot": "STN-DBS 手术路径（分期 vs 同期）对程控效率的影响，PD 手术实践热点。"
-    },
-    {
-      "title_zh": "针灸治疗卒中后认知障碍：连接微生物群-肠-脑轴与脑网络重塑的机制假说",
-      "summary": "Frontiers in Aging Neuroscience 发表机制综述/假说文章，提出针灸改善卒中后认知障碍（post-stroke cognitive impairment）可能通过微生物群-肠-脑轴（microbiota-gut-brain axis）中介，进而影响脑网络重塑的通路。文章整合现有针灸调节肠道菌群、炎症与神经可塑性的证据，为针灸抗认知障碍研究提供机制框架与可检验假说。",
-      "category": "中西医结合",
-      "source": "Frontiers in Aging Neuroscience",
-      "url": "https://doi.org/10.3389/fnagi.2026.2000083",
+      "title_zh": "TREM2 激动剂治疗阿尔茨海默病",
+      "summary": "Nature Reviews Drug Discovery 刊文《TREM2 agonist to treat Alzheimer disease》，讨论激活 TREM2 受体作为 AD 免疫炎症通路靶向药物的前景。TREM2 是 AD 遗传学发现的关键风险基因，其激动剂代表了一条区别于 Aβ 靶向的免疫调节新策略。",
+      "category": "药物审批",
+      "source": "Nature Reviews Drug Discovery",
+      "url": "https://doi.org/10.1038/d41573-026-00185-4",
       "date": "2026-11-23",
-      "why_hot": "肠-脑轴为针灸疗效提供现代机制解释框架，中西医结合机制研究热点。"
+      "why_hot": "NRRD 介绍 TREM2 激动剂新策略，为 AD 免疫炎症通路药物开发提供前沿概览"
     },
     {
-      "title_zh": "针灸治疗炎症性肠病（IBD）：随机假针对照试验方案",
-      "summary": "Brain, Behavior, Immunity - Integrative 发表一项针刺治疗炎症性肠病（IBD）的随机假针对照试验（RCT）方案，采用假针（sham-controlled）对照设计以分离特异性针感效应。IBD 与肠道免疫-神经调节密切相关，针灸调节肠免疫的 RCT 方案注册为领域内高质量证据的前奏，方案细节（终点、样本量、对照设计）值得跟踪。",
-      "category": "中西医结合",
-      "source": "Brain, Behavior, Immunity - Integrative",
-      "url": "https://doi.org/10.1016/j.bbii.2026.100197",
-      "date": "2026-12",
-      "why_hot": "高质量假针对照 RCT 方案，针灸治疗 IBD 的循证前哨。"
-    },
-    {
-      "title_zh": "针灸试验中假针对照设计的非穴位定义方法学",
-      "summary": "Integrative Medicine Research 发表方法学评论，讨论针灸随机对照试验中「非穴位（non-acupoint）」假针对照设计的定义标准与实施要点。假针对照的选择直接影响针灸试验的对照强度与结果解释，该文章为试验设计与报告规范提供方法学指引，有助于提升针灸 RCT 的证据等级。",
-      "category": "中西医结合",
-      "source": "Integrative Medicine Research",
-      "url": "https://doi.org/10.1016/j.imr.2026.101345",
-      "date": "2026-12",
-      "why_hot": "针灸 RCT 假针对照设计的方法学规范，领域证据质量核心议题。"
-    },
-    {
-      "title_zh": "草药干预管理哮喘：随机对照试验的系统评价与 Meta 分析",
-      "summary": "Journal of Herbal Medicine 发表系统评价与 Meta 分析，汇总草药（herbal）干预在哮喘管理中的随机对照试验证据。分析评估不同草药配方对哮喘症状控制、急性发作风险与肺功能指标的效果与安全性，为草药辅助治疗哮喘提供循证参考，并指出既有试验质量与异质性方面的局限。",
-      "category": "中西医结合",
-      "source": "Journal of Herbal Medicine",
-      "url": "https://doi.org/10.1016/j.hermed.2026.101137",
-      "date": "2026-12",
-      "why_hot": "草药干预哮喘的 RCT 证据汇总，中药现代循证评估方向。"
-    },
-    {
-      "title_zh": "耳穴针刺治疗红斑毛细血管扩张型玫瑰痤疮：多中心随机双盲假对照试验方案（预印本）",
-      "summary": "openRxiv 预印本（2026-11-24）发表一项多中心、随机、受试者与评估者双盲、假对照的耳穴针刺（auricular acupuncture）治疗红斑毛细血管扩张型玫瑰痤疮（erythematotelangiectatic rosacea）试验方案。双盲+假对照+多中心的严格设计在耳穴领域属高标准，方案注册后结果值得跟踪，对玫瑰痤疮的非药物疗法循证化有示范意义。",
-      "category": "中西医结合",
-      "source": "openRxiv（预印本）",
-      "url": "https://doi.org/10.64898/2026.11.24.26368482",
+      "title_zh": "JAMA 评述：深颈淋巴静脉吻合术延缓神经退行性疾病进展",
+      "summary": "Journal of Experimental Medicine 与 Nature Reviews Nephrology 等多篇报道深颈淋巴静脉吻合术（DC-LVA）在神经退行性疾病中的动物实验与临床前成果：该手术通过引流脑脊液旁路降低神经炎症标志物，为 AD、PD 等疾病的非药物干预提供了外科新方向。",
+      "category": "神经病学",
+      "source": "Journal of Experimental Medicine",
+      "url": "https://doi.org/10.1084/jem.20260671",
       "date": "2026-11-24",
-      "why_hot": "高标准双盲多中心耳穴 RCT 方案，皮肤科中西医结合新方向。"
+      "why_hot": "深颈淋巴静脉吻合术（DC-LVA）在神经退行性疾病中引发国际关注"
+    },
+    {
+      "title_zh": "卒中后认知障碍：针灸连接微生物群-肠-脑轴与脑网络重塑的机制假说",
+      "summary": "Frontiers in Neurology 发表机制假说论文，提出针灸治疗卒中后认知障碍（PCD）的可能机制：通过连接微生物群-肠-脑轴（microbiome-gut-brain axis）与脑网络重塑（brain network reorganization）两条通路，为「肠脑轴」干预 PCD 提供了可检验的理论框架。",
+      "category": "中西医结合",
+      "source": "Frontiers in Neurology",
+      "url": "https://doi.org/10.3389/fnagi.2026.2027235",
+      "date": "2026-11-25",
+      "why_hot": "针灸 + 肠脑轴 + 脑网络重塑的机制假说，直接对应用户收藏的肠脑轴/神经调控主题"
+    },
+    {
+      "title_zh": "中风后虚弱指数与功能恢复：回顾性队列研究",
+      "summary": "Topics in Stroke Rehabilitation 发表回顾性队列研究，利用常规实验室指标构建虚弱指数（frailty index），评估其与卒中后功能恢复的关系，为临床简便识别影响卒中康复预后的虚弱状态提供参考。",
+      "category": "临床研究",
+      "source": "Topics in Stroke Rehabilitation",
+      "url": "https://doi.org/10.1080/10749357.2026.2758157",
+      "date": "2026-11-23",
+      "why_hot": "基于常规实验室指标的卒中后虚弱指数预测功能恢复"
+    },
+    {
+      "title_zh": "基于机器学习的卒中后功能恢复居家评估方法",
+      "summary": "Journal of NeuroEngineering and Rehabilitation 发表基于机器学习的卒中后功能恢复居家评估方法，探索可穿戴传感器与居家监测数据结合实现康复效果的量化评估。",
+      "category": "中西医结合",
+      "source": "Journal of NeuroEngineering and Rehabilitation",
+      "url": "https://doi.org/10.1186/s12984-026-02225-x",
+      "date": "2026-11-23",
+      "why_hot": "居家卒中康复 + ML 量化评估，中医非药物疗法可接入智能穿戴"
+    },
+    {
+      "title_zh": "清化化痰方治疗大动脉粥样硬化性卒中：随机对照试验",
+      "summary": "Frontiers in Medicine 发表随机对照试验，评估清热化痰方（Qingre Huatan formula）联合西医常规治疗大动脉粥样硬化性卒中的疗效，为中药复方在急性缺血性卒中治疗中的应用提供 RCT 证据。",
+      "category": "中西医结合",
+      "source": "Frontiers in Medicine",
+      "url": "https://doi.org/10.3389/fmed.2026.1990354",
+      "date": "2026-11-24",
+      "why_hot": "清热化痰方治疗急性缺血性卒中 RCT，中药复方急性期循证"
+    },
+    {
+      "title_zh": "缺血性卒中的肠脑轴：免疫代谢机制",
+      "summary": "Clinical Traditional Medicine and Pharmacology 发表述评《The gut-brain axis in ischemic stroke: Immunometabolic mechanisms》，系统梳理肠脑轴在缺血性卒中（AIS）发病与康复中的免疫代谢机制，为中西医结合治疗 AIS 的肠道微生态靶向策略提供理论基础。",
+      "category": "中西医结合",
+      "source": "Clinical Traditional Medicine and Pharmacology",
+      "url": "https://doi.org/10.1016/j.ctmp.2026.200313",
+      "date": "2026-12",
+      "why_hot": "肠脑轴在缺血性卒中中的免疫代谢机制综述，契合中医调理肠道治疗卒中的理论"
+    },
+    {
+      "title_zh": "卒中后认知障碍的肠脑轴机制：微生物群-肠-脑轴与脑网络重塑",
+      "summary": "Gut Microbiome and Health 发表研究论文，探讨肠道微生物群与脑血管事件后认知功能障碍之间的关联，为肠脑轴在神经退行性与血管性认知障碍中的作用提供新证据。",
+      "category": "神经病学",
+      "source": "Gut Microbiome and Health",
+      "url": "https://doi.org/10.1016/j.gmh.2026.100004",
+      "date": "2026-12",
+      "why_hot": "肠脑轴与血管性认知障碍（VCI）关联证据，与中医肠脑理论呼应"
+    },
+    {
+      "title_zh": "依达拉奉右旋龙对神经细胞衰老损伤的影响",
+      "summary": "Tissue and Cell 发表研究，评估依达拉奉右旋龙（edaravone dexborneol）减轻神经细胞衰老损伤的作用，为依达拉奉在神经保护领域的多用途提供基础机制证据。",
+      "category": "中西医结合",
+      "source": "Tissue and Cell",
+      "url": "https://doi.org/10.1016/j.tice.2026.103821",
+      "date": "2027-02",
+      "why_hot": "依达拉奉右旋龙的神经保护机制，呼应 Lancet Neurology 的依达拉奉争议"
     }
   ]
 }
